@@ -25,3 +25,8 @@ python asymx_sim.py
 
 # asymx-framework
 Minimal structural framework for asymmetry, intersection, and path formation (AI, simulation, formal systems)
+
+
+“This is not finished. This is the starting point.”
+
+let explore together and see if we can make big things happen :)
