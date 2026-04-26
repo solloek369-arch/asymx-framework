@@ -104,3 +104,30 @@ Run:
 ```bash
 python3 -m pip install -r requirements.txt
 python3 asymx_sim.py
+
+
+You will see:
+
+⚫ field (black)
+appearance (red)
+− disappearance (blue)
+X intersection (yellow)
+path (green)
+
+The system evolves continuously.
+
+
+Status
+This is an early structural simulation.
+Not everything is solved yet.
+Not everything is stable yet.
+That is intentional.
+Why I share this
+This is not about being right.
+This is about not forcing structure too early.
+Collaboration
+If something in here resonates with you,
+feel free to build on it.
+This does not belong to me.
+Author
+Loek Verdonk — 2026
