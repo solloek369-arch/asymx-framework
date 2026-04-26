@@ -99,13 +99,6 @@ This allows tension without collapse.
 
 ## Simulation
 
-Run:
-
-```bash
-python3 -m pip install -r requirements.txt
-python3 asymx_sim.py
-
-
 You will see:
 
 ⚫ field (black)
@@ -129,5 +122,10 @@ Collaboration
 If something in here resonates with you,
 feel free to build on it.
 This does not belong to me.
-Author
-Loek Verdonk — 2026
+
+
+Run:
+
+```bash
+python3 -m pip install -r requirements.txt
+python3 asymx_sim.py
