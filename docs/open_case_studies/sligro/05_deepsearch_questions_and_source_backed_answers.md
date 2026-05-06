@@ -45,6 +45,35 @@ Useful, but not operationally true until locally tested.
 
 Too speculative, accusatory, unsupported or dependent on internal data.
 
+
+### UNVERIFIED / INVITE VERIFICATION
+
+Useful but not yet verified.
+
+This label is used when a theory, source reference, AI output or hypothesis may be relevant, but is not yet strong enough to use as evidence.
+
+Do not use it as proof.
+
+Do not delete it automatically.
+
+Convert it into a verification invitation.
+
+Safe wording:
+
+> This is currently an unverified interpretation. If available, a public source, correction or confirmation would help validate or refine this point.
+
+Use this label when:
+- a source is mentioned but the exact URL, publisher or reliability is not yet verified;
+- a hypothesis fits the current pattern but still needs confirmation;
+- an AI answer gives a useful lead but not yet a source-safe answer;
+- the idea may become useful later after source gate review.
+
+Move it to:
+- PUBLIC FACT if verified by public company or official source;
+- SECTOR PATTERN if supported by strong general literature;
+- HYPOTHESIS / TEST NEEDED if it requires local testing;
+- DO NOT CLAIM if it becomes too speculative, accusatory or unsupported.
+
 ## Master Deepsearch Prompt
 
 Use this prompt when researching one question.
