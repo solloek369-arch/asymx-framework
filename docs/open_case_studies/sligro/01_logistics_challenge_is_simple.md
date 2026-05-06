@@ -14,7 +14,7 @@ It translates public signals, sector patterns and visible questions into a simpl
 
 - Management Scope interview with Gerrit Buitenhuis, Chief Supply Chain Officer at Sligro Food Group: https://managementscope.nl/en/interview/gerrit-buitenhuis-sligro-supply-chain-logistics
 - Sligro Food Group 2024 annual figures presentation: https://www.sligrofoodgroup.nl/sites/default/files/pdf/Presentation%202024%20annual%20figures.pdf
-- Sligro Food Group 2024 annual figures press release: https://www.sligrofoodgroup.nl/sites/default/fes/pdf/Press%20release%20annual%20figures%202024.pdf
+- Sligro Food Group 2024 annual figures press release: https://www.sligrofoodgroup.nl/sites/default/files/pdf/Press%20release%20annual%20figures%202024.pdf
 - Sligro company profile: https://www.sligrofoodgroup.nl/en/about/organization/profile
 - Sligro public page about the central distribution centre in Veghel: https://spreekbeurt.sligrofoodgroup.nl/distributiecentrum/
 - Slimstock customer story about Sligro and Slim4: https://www.slimstock.com/customers/sligro/
