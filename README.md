@@ -129,3 +129,20 @@ Run:
 ```bash
 python3 -m pip install -r requirements.txt
 python3 asymx_sim.py
+```
+
+## AsymX Level 1 Open Field
+
+AsymX Level 1 tools are small, local-only visibility lenses.
+
+The first live Level 1 lens is:
+
+- `logistics-level1/` — Static Shadow Run Lens for repeated warehouse deviations
+
+The broader Level 1 field map is here:
+
+- `docs/level_1_open_field_map.md`
+
+Level 1 rule:
+
+local-only · no upload · no backend · no tracking · source stays intact · analysis is metadata
