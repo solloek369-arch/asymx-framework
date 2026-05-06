@@ -1,6 +1,9 @@
 # AsymX Level 1 Lens Registry
 
-Doel: één publiek overzicht van Level 1-lenzen die al geoogst, gepubliceerd of gepland zijn.
+Doel: één overzicht van Level 1-lenzen die released, oogstbaar, actief of geparkeerd zijn.
+
+Dit register is geen eindlijst.
+Het is een huidige kaart van wat zichtbaar genoeg is om niet meer los in het hoofd te hoeven hangen.
 
 Level 1 betekent:
 - lokaal
@@ -13,30 +16,42 @@ Level 1 betekent:
 - geen harde claims
 - bron blijft intact
 
-## Released Level 1 lenses
+## Released
 
-| Nr | Lens | Pad | Status | Tag | Doel |
-|---:|---|---|---|---|---|
-| 01 | Logistics Level 1 / Static Shadow Run Lens | `logistics-level1/` | RELEASED | `logistics-level1-v1.0` | Herhaalde manco / ghost pick / short-pick clusters lokaal zichtbaar maken. |
-| 02 | Chat Intake Vault | `chat-intake-level1/` | RELEASED | `chat-intake-level1-v1.0` | AI/chats veilig innemen; bron intact houden; eerste routing mogelijk maken. |
-| 03 | Story Filter | `story-filter-level1/` | RELEASED | `story-filter-level1-v1.0` |kst splitsen in verhaalopbouw, herhaling en ruis/nu niet. |
+| Nr | Lens | Pad | Tag |
+|---:|---|---|---|
+| 01 | Logistics Level 1 / Static Shadow Run Lens | `logistics-level1/` | `logistics-level1-v1.0` |
+| 02 | Chat Intake Vault | `chat-intake-level1/` | `chat-intake-level1-v1.0` |
+| 03 | Story Filter | `story-filter-level1/` | `story-filter-level1-v1.0` |
 
-## Planned / parked lenses
+## Next candidates
+
+| Nr | Lens | Mogelijke map | Status |
+|---:|---|---|---|
+| 04 | Claim Safety / Dancing Trust | `claim-safety-el1/` | NEXT_CANDIDATE |
+| 05 | Sligro Zichtbaarheidsanker | `sligro-anchor-level1/` | NEXT_CANDIDATE |
+
+## Active pressure
 
 | Lens | Status | Reden |
 |---|---|---|
-| Claim Safety Level 1 | PLANNED | Bewijsveiligheid als aparte kleine lens. |
-| Prompt Router Level 1 | ACTIVE_PRESSURE | AI-output routeren naar FILE / ANCHOR / PROMPT / CLAIMCHECK / NOISE / OPEN_END. |
-| Cursor Prompt Safety Level 1 | ACTIVE_PRESSURE | Grotere bouwsessies beschermen tegen overschrijven/refactoren. |
-| Export Bundle Level 1 | ACTIVE_PRESSURE | Bron + labels + open eindjes + outputs samen exporteren. |
-| Symbol Engine Level 1 | PARKED | Inhoudelijk rijp, maar nog niet trekken. |
-| Family Interface Level 1 | PARKED | Architectuur helder, maar nog niet bouwen. |
-| Always-On Field Level 1 | PARKED | Werkende capture-basis bestaat; productlaag later. |
+| Prompt Router Level 1 | ACTIVE_PRESSURE | AI-output routeren naar FILE / ANCHOR / PROMPT / CLAIMCHECK / NOISE / OPEN_END |
+| Cursor Prompt Safety Level 1 | ACTIVE_PRESSURE | Bouwsessies beschermen tegen overschrijven/refactoren |
+| Export Bundle Level 1 | ACTIVE_PRESSURE | Bron + labels + open eindjes + outputs samen exporteren |
+
+## Parked
+
+| Lens | Status |
+|---|---|
+| Symbol Engine Level 1 | PARKED |
+| Family Interface Level 1 | PARKED |
+| Always-On Field Level 1 | PARKED |
 
 ## Werkregel
 
 Nieuwe lens pas toevoegen als:
 1. hij in `docs/engine_register.md` staat;
-2. hij in `docs/pressure_queue.md` of `docs/open_eindjes_register.md` past;
+2. hij past in `docs/pressure_queue.md` of `docs/open_eindjes_register.md`;
 3. hij klein genoeg is voor Level 1;
-4. hij geen bron overschrijft.
+4. hij geen bron overschrijft;
+5. hij nu druk verlaagt.

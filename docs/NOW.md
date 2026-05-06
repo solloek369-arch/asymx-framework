@@ -10,9 +10,11 @@ Doel: één actuele sync-laag voor mens + AI + repo. Dit bestand verlaagt druk: 
 - Remote: `https://github.com/solloek369-arch/asymx-framework.git`
 - Branch: `main`
 - Laatst bevestigde status: clean, up to date with `origin/main`
+- Laatst bevestigd tijdens basis-sync: `fc6a7d5` — Add Level 1 lens registry
 
 ## Laatste ankers in Git
 
+- `fc6a7d5` — Add Level 1 lens registry
 - `44d380e` — Add pressure queue and open ends register
 - `8b4db78` — Add engine register v1
 - `be86ebd` — Add Level 1 open field map
@@ -107,3 +109,28 @@ Actuele released Level 1-lenzen:
 3. `story-filter-level1/`
 
 Zie ook: `docs/lens_registry.md`.
+
+## Update — drie Level 1-lenzen zichtbaar
+
+ huidige stand is bijgewerkt in:
+
+- `docs/RELEASE_STATE.md`
+- `docs/lens_registry.md`
+
+Actuele released Level 1-lenzen:
+
+1. `logistics-level1/` — `logistics-level1-v1.0`
+2. `chat-intake-level1/` — `chat-intake-level1-v1.0`
+3. `story-filter-level1/` — `story-filter-level1-v1.0`
+
+Deze releases zijn ankerpunten, geen eindwaarheden.
+
+Volgende oogstbare kandidaten, zonder nu te forceren:
+
+- `claim-safety-level1/`
+- `sligro-anchor-level1/`
+
+Basisregel blijft:
+
+Wat zichtbaar genoeg is, hoeft nu niet opnieuw gedragen te worden.
+Wat levend moet blijven, wordt niet dichtgezet.
