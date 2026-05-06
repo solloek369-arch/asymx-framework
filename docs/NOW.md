@@ -93,3 +93,17 @@ Als iets nieuw opkomt:
 ## Eénzinssamenvatting
 
 AsymX staat nu in een veilige Level 1-publicatiefase: de eerste publieke logistieke lens is getagd, de enginekaart bestaat, de drukwachtrij bestaat, en losse open eindjes hoeven niet meer in het hoofd te blijven hangen.
+## Update — Level 1 lenses geoogst
+
+Na de eerste NOW-sync zijn twee extra bestaande engines veilig geoogst als Level 1-lenzen:
+
+- `chat-intake-level1/` — tag: `chat-intake-level1-v1.0`
+- `story-filter-level1/` — tag: `story-filter-level1-v1.0`
+
+Actuele released Level 1-lenzen:
+
+1. `logistics-level1/`
+2. `chat-intake-level1/`
+3. `story-filter-level1/`
+
+Zie ook: `docs/lens_registry.md`.
