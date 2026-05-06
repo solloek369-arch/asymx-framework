@@ -27,6 +27,6 @@ Public information → simple question → possible pattern → safe lens → in
 7. Data sovereignty / local AI lens
 8. Supply chain integration forecast CDC
 9. Slow movers visibility
-10. Supplier friction brival
+10. Supplier friction before arrival
 11. Belgium transition anchor
 12. Space / real estate / logistics flow
