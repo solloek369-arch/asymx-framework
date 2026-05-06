@@ -21,7 +21,7 @@ Public information → simple question → possible pattern → safe lens → in
 1. Logistics challenge is simple
 2. Slim4 planning vs floor reality
 3. Supply chain rest / service level / delivery reliability
-4. AS400 to SAP transition
+4. AS/400 to SAP transition
 5. EDI integration and order flow
 6. SAP Commerce / customer order reality
 7. Data sovereignty / local AI lens
