@@ -133,4 +133,4 @@ Volgende oogstbare kandidaten, zonder nu te forceren:
 Basisregel blijft:
 
 Wat zichtbaar genoeg is, hoeft nu niet opnieuw gedragen te worden.
-Wat levend moet blijven, wordt niet dichtgezet.
+Wat leeft, krijgt ruimte om te groeien.

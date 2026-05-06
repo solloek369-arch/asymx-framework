@@ -45,7 +45,7 @@ Er zijn nu drie Level 1-lenzen geoogst, gepusht en getagd.
 7. Geen echte privédata of bedrijfsdata committen.
 8. Geen harde claims zonder bewijs.
 9. Wat zichtbaagenoeg is, hoeft nu niet opnieuw gedragen te worden.
-10. Wat levend moet blijven, wordt niet dichtgezet.
+10. Wat leeft, krijgt ruimte om te groeien.
 
 ## Volgende oogstbare kandidaten
 
