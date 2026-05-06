@@ -14,7 +14,7 @@ It translates public signals, sector patterns and visible questions into a simpl
 
 - Computable article about Sligro moving from AS/400 to SAP S/4HANA for Retail: https://www.computable.nl/2020/08/19/sligro-neemt-afscheid-van-as-400/
 - myBrand customer case about hosting and support for Sligro’s SAP Retail environment: https://mybrand.nl/sligro-kiest-mybrand-als-hosting-en-supportpartner-voor-nieuwe-sap-retail-omgeving/
-- Sligro Food Group half-year figures 2025 presentation: https://www.sligrofoodgroup.nl/sites/default/files/pdf/Presentation%202025%20haear%20figures.pdf
+- Sligro Food Group half-year figures 2025 presentation: https://www.sligrofoodgroup.nl/sites/default/files/pdf/Presentation%202025%20half-year%20figures.pdf
 - Sligro SAP Centre of Excellence / SAP transition vacancy language: https://jobs.sligrofoodgroup.com/
 
 ## Publiek signaal
@@ -74,7 +74,7 @@ De lens:
 
 Doel:
 
-zichtbaar maken waar fysieke uitvoering, vloerobservaties of herhaalde correcties mogelijk relevant zijn voor sterdata-, proces- of adoptieteams.
+zichtbaar maken waar fysieke uitvoering, vloerobservaties of herhaalde correcties mogelijk relevant zijn voor masterdata-, proces- of adoptieteams.
 
 ## Mogelijke input
 
