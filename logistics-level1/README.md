@@ -33,3 +33,23 @@ The first real operational step is an internal shadow run using existing export 
 5. Export local analysis CSV or JSON if needed.
 
 No data is uploaded or transmitted by the demo.
+
+## Search intent / intent routing
+
+This repository is written for people searching for the underlying operational friction, not for marketing reach.
+
+Common intent paths include:
+
+- repeated manco per location
+- ghost pick cluster detection
+- WMS export CSV schema
+- offline warehouse deviation analyzer
+- no-upload CSV analysis
+- floor vs WMS mismatch
+- short-pick cluster review
+- shadow-run warehouse analysis
+
+See:
+
+- docs/intentional_alignment.md
+- docs/search_intent_map.md
