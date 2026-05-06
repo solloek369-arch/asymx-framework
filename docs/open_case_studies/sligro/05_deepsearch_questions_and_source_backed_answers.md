@@ -347,3 +347,7 @@ Park the question when:
 Wat zichtbaar genoeg is, hoeft nu niet opnieuw gedragen te worden.
 
 Wat leeft, krijgt ruimte om te groeien.
+
+## Answer Cards
+
+- [Q04 — Legacy to SAP Transition](05_answers/q04_legacy_to_sap_transition.md)
