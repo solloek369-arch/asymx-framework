@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://asymx.local/schema/asymx_logistics_level1.schema.json",
+  "title": "AsymX Logistics Level 1 CSV Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "date",
+    "time",
+    "location",
+    "item_id",
+    "event_type",
+    "route_id",
+    "anonymized_picker_id",
+    "system_status",
+    "floor_status",
+    "recovery_action",
+    "recovery_time",
+    "notes"
+  ],
+  "properties": {
+    "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "time": { "type": "string", "pattern": "^\\d{2}:\\d{2}$" },
+    "location": { "type": "string" },
+    "item_id": { "type": "string" },
+    "event_type": {
+      "type": "string",
+      "enum": [
+        "manco",
+        "short_pick",
+        "not_found",
+        "empty_location",
+        "blocked_location",
+        "picked",
+        "other"
+      ]
+    },
+    "route_id": { "type": "string" },
+    "anonymized_picker_id": { "type": "string" },
+    "system_status": { "type": "string" },
+    "floor_status": { "type": "string" },
+    "recovery_action": { "type": "string" },
+    "recovery_time": { "type": "string" },
+    "notes": { "type": "string" }
+  }
+}

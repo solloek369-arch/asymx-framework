@@ -1,0 +1,27 @@
+date,time,location,item_id,event_type,route_id,anonymized_picker_id,system_status,floor_status,recovery_action,recovery_time,notes
+2026-05-01,08:00,A-47,ITEM-1001,manco,R-001,P-001,available,empty,recheck_location,08:05,mock repeated deviation
+2026-05-01,08:12,A-47,ITEM-1002,manco,R-002,P-002,available,empty,replenishment_check,08:18,mock repeated deviation
+2026-05-01,08:26,A-47,ITEM-1003,manco,R-003,P-003,available,empty,temporary_hold,08:35,mock repeated deviation
+2026-05-01,09:05,A-47,ITEM-1004,picked,R-004,P-004,available,ok,none,,normal mock event
+2026-05-01,09:10,B-12,ITEM-2001,blocked_location,R-005,P-005,available,blocked,remove_block,09:18,mock repeated deviation
+2026-05-01,09:28,B-12,ITEM-2002,blocked_location,R-006,P-006,available,blocked,remove_block,09:39,mock repeated deviation
+2026-05-01,10:00,B-12,ITEM-2003,picked,R-007,P-007,available,ok,none,,normal mock event
+2026-05-01,10:15,C-09,ITEM-3001,manco,R-008,P-008,available,empty,recheck_location,10:25,loose mock incident
+2026-05-01,11:20,C-09,ITEM-3002,short_pick,R-009,P-009,available,partial,replenishment_check,11:35,loose mock incident outside window
+2026-05-01,12:50,C-09,ITEM-3003,not_found,R-010,P-010,available,not_found,recheck_location,13:05,loose mock incident outside window
+2026-05-01,13:00,D-22,ITEM-4001,short_pick,R-011,P-011,available,partial,replenishment_check,13:08,mock extended pattern
+2026-05-01,13:12,D-22,ITEM-4002,not_found,R-012,P-012,available,not_found,recheck_location,13:20,mock extended pattern
+2026-05-01,13:31,D-22,ITEM-4003,short_pick,R-013,P-013,available,partial,replenishment_check,13:40,mock extended pattern
+2026-05-01,13:44,D-22,ITEM-4004,not_found,R-014,P-014,available,not_found,temporary_hold,13:55,mock extended pattern
+2026-05-01,14:30,E-03,ITEM-5001,picked,R-015,P-015,available,ok,none,,normal mock event
+2026-05-01,14:35,E-04,ITEM-5002,picked,R-016,P-016,available,ok,none,,normal mock event
+2026-05-01,14:40,E-05,ITEM-5003,picked,R-017,P-017,available,ok,none,,normal mock event
+2026-05-01,15:00,F-18,ITEM-6001,empty_location,R-018,P-018,available,empty,replenishment_check,15:12,single mock deviation
+2026-05-01,15:45,G-07,ITEM-7001,not_found,R-019,P-019,available,not_found,recheck_location,15:58,single mock deviation
+2026-05-01,16:00,H-11,ITEM-8001,picked,R-020,P-020,available,ok,none,,normal mock event
+2026-05-01,16:12,H-11,ITEM-8002,picked,R-021,P-021,available,ok,none,,normal mock event
+2026-05-01,16:25,J-02,ITEM-9001,manco,R-022,P-022,available,empty,recheck_location,16:31,single mock deviation
+2026-05-01,17:05,K-31,ITEM-9101,blocked_location,R-023,P-023,available,blocked,remove_block,17:18,single mock deviation
+2026-05-01,17:40,L-14,ITEM-9201,picked,R-024,P-024,available,ok,none,,normal mock event
+2026-05-01,18:10,M-20,ITEM-9301,short_pick,R-025,P-025,available,partial,replenishment_check,18:22,single mock deviation
+2026-05-01,18:50,N-01,ITEM-9401,picked,R-026,P-026,available,ok,none,,normal mock event

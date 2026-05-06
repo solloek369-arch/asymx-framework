@@ -1,0 +1,4 @@
+date,time,location,item_id,event_type,route_id,anonymized_picker_id,system_status,floor_status,recovery_action,recovery_time,notes
+2026-05-01,08:00,A-01,ITEM-0001,manco,R-001,P-001,available,empty,recheck_location,08:10,fictitious example only
+2026-05-01,08:15,A-01,ITEM-0002,short_pick,R-002,P-002,available,partial,replenishment_check,08:25,fictitious example only
+2026-05-01,09:00,B-02,ITEM-0003,picked,R-003,P-003,available,ok,none,,fictitious example only
