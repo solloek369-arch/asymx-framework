@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Structuur Engine Level 1A — Verhaal Filter</title>
+<style>
+:root{--bg:#08090b;--panel:#12161c;--line:#29313b;--text:#f3f6f8;--muted:#9aa5b1;--green:#55d98b;--yellow:#f4c85a;--red:#ff6b8a;--blue:#68a8ff;--amber:#ffad33}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(circle at top left,#1b160d 0,#08090b 36%,#030405 100%);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.42}
+.wrap{max-width:1500px;margin:0 auto;padding:22px}.head{margin-bottom:14px}.kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);font-weight:800}h1{margin:4px 0 6px;font-size:30px}.sub{color:var(--muted);max-width:900px}
+.panel,.card{background:linear-gradient(180deg,rgba(19,23,29,.97),rgba(10,13,18,.97));border:1px solid var(--line);border-radius:18px;box-shadow:0 18px 50px rgba(0,0,0,.24)}.panel{padding:16px;margin-bottom:14px}
+textarea{width:100%;min-height:300px;resize:vertical;border:1px solid var(--line);border-radius:16px;background:#05070a;color:var(--text);padding:15px;font-size:14px;outline:none}.row{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+button{border:1px solid var(--line);background:#151a22;color:var(--text);border-radius:999px;padding:10px 14px;font-weight:850;font-size:13px;cursor:pointer}button:hover{filter:brightness(1.14)}.primary{background:linear-gradient(135deg,#fff,#e9eef6);color:#111}.amber{background:linear-gradient(135deg,#ffb84d,#ff8a2a);color:#1a0d00;border-color:#ffb84d}.red{background:#241019;color:#ff9aae;border-color:#4b1d2b}
+.cols{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.col{padding:14px;min-height:260px}.colHead{display:flex;align-items:center;justify-content:space-between;gap:10px;border-bottom:1px solid rgba(255,255,255,.08);padding-bottom:10px;margin-bottom:10px}.colTitle{font-weight:950}.count{border:1px solid var(--line);border-radius:999px;padding:5px 9px;background:#0b0f15;color:#dfe7ef;font-weight:900}
+.card{padding:13px;margin:10px 0}.meta{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}.badge{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:4px 8px;background:#0b1017;color:#d9e1ea;font-size:12px;font-weight:850}.badge.green{color:#8ef2b1;border-color:#285b3a}.badge.yellow{color:#ffe08a;border-color:#665120}.badge.red{color:#ff9aae;border-color:#5c2636}.badge.blue{color:#9bccff;border-color:#294f76}
+.reason{color:var(--muted);font-size:13px;margin:7px 0}.text{white-space:pre-wrap;background:#06080c;border:1px solid rgba(255,255,255,.08);border-radius:12px;padding:10px;font-size:13px}.empty{color:var(--muted);font-size:13px;padding:10px}.tip{font-size:12px;color:var(--muted);border:1px dashed #384353;background:#0a0d12;border-radius:14px;padding:12px;margin-top:10px}
+@media(max-width:1000px){.cols{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="head">
+    <div class="kicker">Structuur Engine / Level 1A</div>
+    <h1>Verhaal Filter</h1>
+    <div class="sub">Sorteert grote chatteksten op bouwfunctie: verhaalopbouw, dubbel/herhaling of ruis/nu niet. Namen als Sligro, SAP en AS400 worden alleen tags, nooit de hoofdpoort.</div>
+  </div>
+
+  <section class="panel">
+    <textarea id="input" placeholder="Plak chattekst"></textarea>
+    <div class="row">
+      <button class="primary" onclick="analyzeInput()">Analyseer</button>
+      <button class="amber" onclick="exportTxt()">Export</button>
+      <button class="red" onclick="resetAll()">Reset</button>
+    </div>
+    <div class="tip">Hoofdregel: helpt een blok om een rapport, mail, uitleg of verhaal op te bouwen, dan gaat het naar VERHAALOPBOUW. Dubbele inhoud gaat naar DUBBEL / HERHALING. Wat nu geen duidelijke bouwfunctie heeft, gaat naar RUIS / NU NIET.</div>
+  </section>
+
+  <section class="cols">
+    <div class="panel col"><div class="colHead"><div class="colTitle">VERHAALOPBOUW</div><div id="countStory" class="count">0</div></div><div id="story"></div></div>
+    <div class="panel col"><div class="colHead"><div class="colTitle">DUBBEL / HERHALING</div><div id="countDup" class="count">0</div></div><div id="dupes"></div></div>
+    <div class="panel col"><div class="colHead"><div class="colTitle">RUIS / NU NIET</div><div id="countNoise" class="count">0</div></div><div id="noise"></div></div>
+  </section>
+</div>
+
+<script>
+const $=id=>document.getElementById(id);
+let lastResult={story:[],dupes:[],noise:[]};
+
+const buildSignals=[
+ ['probleemstelling',/\b(probleem|vraagstuk|knelpunt|waarom dit schuurt|wat er misgaat)\b/i],
+ ['oorzaak',/\b(oorzaak|komt door|ontstaat doordat|doordat|omdat)\b/i],
+ ['mechaniek',/\b(mechaniek|werking|systeem|werkelijkheid|frictie|proces|vloer|data|validatie|zichtbaar)\b/i],
+ ['voorbeeld',/\b(voorbeeld|stel je voor|situatie|casus|als een|bijvoorbeeld)\b/i],
+ ['gevolg / impact',/\b(gevolg|impact|effect|verlies|tijdverlies|kosten|druk|wachttijd|looptijd)\b/i],
+ ['oplossing / richting',/\b(oplossing|richting|aanpak|interventie|filter|laag|stap|route|herstel)\b/i],
+ ['bewijs / bron / publieke doelstelling',/\b(bewijs|bron|publiek|jaarverslag|doelstelling|data|cijfers|rapportage)\b/i],
+ ['hypothese / idee',/\b(hypothese|idee|kan ontstaan|mogelijk|aannemelijk|te onderzoeken)\b/i],
+ ['risico / te harde claim',/\b(risico|claim|te hard|bewezen|bewijst|onweerlegbaar|feitelijk)\b/i],
+ ['uitnodiging / samenwerking',/\b(uitnodiging|samenwerking|samen|pilot|werksessie|validatie|co-creatie|gesprek)\b/i],
+ ['conclusie',/\b(conclusie|dus|kortom|samengevat|daarom)\b/i],
+ ['rapportzin',/\b(rapport|directie|analyse|hoofdstuk|executive|samenvatting)\b/i],
+ ['mailzin',/\b(mail|beste|afsluiting|met respect|vraag is niet)\b/i],
+ ['uitleg voor gewone mensen',/\b(gewone mensen|simpel|uitleg|kind|voorbeeld|alsof)\b/i],
+ ['samenvattende kernzin',/\b(kern|kernzin|essentie|hoofdzaak|zichtbaar maken)\b/i]
+];
+
+const tagRules=[
+ ['Sligro',/\b(sligro|veghel|cdc)\b/i],
+ ['systeem',/\b(sap|as400|as\/400|wms|erp|slim4|abs|scanner|systeem)\b/i],
+ ['vloer',/\b(vloer|locatie|vak|picker|pick|manco|magazijn)\b/i],
+ ['mens',/\b(mens|medewerker|team|picker|gedrag|werkdruk|frustratie|mentaal)\b/i],
+ ['proces',/\b(proces|flow|route|cascade|validatie|herhaling|wachttijd|blokkade)\b/i],
+ ['financieel',/\b(euro|kosten|verlies|marge|omzet|besparing|budget|financieel)\b/i],
+ ['strategie',/\b(strategie|directie|governance|transitie|centralisatie|groei|toekomst)\b/i],
+ ['rapport',/\b(rapport|analyse|hoofdstuk|executive|samenvatting)\b/i],
+ ['mail',/\b(mail|brief|beste|afsluiting)\b/i],
+ ['bewijs',/\b(bewijs|bron|publiek|data|cijfers|bewezen)\b/i],
+ ['hypothese',/\b(hypothese|idee|mogelijk|kan ontstaan|te onderzoeken)\b/i],
+ ['risico',/\b(risico|claim|te hard|onweerlegbaar|bewijst)\b/i],
+ ['toekomst',/\b(toekomst|richting|volgende stap|pilot|ontwikkeling)\b/i]
+];
+
+function splitBlocks(text){
+ const lines=text.replace(/\r/g,'').split('\n');
+ const blocks=[];
+ let buf=[];
+ const flush=()=>{let b=buf.join('\n').trim();if(b)blocks.push(b);buf=[]};
+ for(const raw of lines){
+  const line=raw.trim();
+  if(!line){flush();continue}
+  if(/^#{1,6}\s+/.test(line)){flush();blocks.push(line.replace(/^#{1,6}\s+/,''));continue}
+  if(/^([-*•]\s+|\d+[.)]\s+)/.test(line)){flush();blocks.push(line.replace(/^([-*•]\s+|\d+[.)]\s+)/,''));continue}
+  if(/^(user|assistant|chatgpt|loek|ik|jij)\s*[:：]/i.test(line)){flush();blocks.push(line);continue}
+  if(buf.length&&/[.!?]$/.test(buf[buf.length-1])&&/^[A-ZÀ-Ý0-9"“]/.test(line)){flush()}
+  buf.push(raw);
+ }
+ flush();
+ return blocks.map(x=>x.trim()).filter(Boolean);
+}
+
+function normalizeText(s){
+ return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9\s]/g,' ').replace(/\s+/g,' ').trim();
+}
+
+function similarity(a,b){
+ const aw=[...new Set(normalizeText(a).split(' ').filter(w=>w.length>2))];
+ const bw=new Set(normalizeText(b).split(' ').filter(w=>w.length>2));
+ if(!aw.length||!bw.size)return 0;
+ let hit=0;aw.forEach(w=>{if(bw.has(w))hit++});
+ return hit/Math.max(aw.length,bw.size);
+}
+
+function tagsFor(text){
+ return tagRules.filter(([,rx])=>rx.test(text)).map(([tag])=>tag);
+}
+
+function reasonForBuild(text){
+ const words=normalizeText(text).split(' ').filter(Boolean);
+ const hasSentence=/[.!?;:]/.test(text)||words.length>=10;
+ const matched=buildSignals.filter(([,rx])=>rx.test(text)).map(([label])=>label);
+ const shortNoise=/^(ok|ja|nee|geniaal|top|doe maar|wacht|later|eens|klopt|mooi|prima)$/i.test(text.trim());
+ const strongShort=words.length>=4&&words.length<=9&&matched.some(x=>/kern|conclusie|mechaniek|oplossing|hypothese|risico/.test(x));
+ if(shortNoise)return {isBuild:false,reason:'Korte losse reactie zonder duidelijke bouwfunctie.'};
+ if((matched.length>=1&&hasSentence&&words.length>=8)||strongShort)return {isBuild:true,reason:'Bouwfunctie herkend: '+matched.slice(0,3).join(', ')+'.'};
+ if(words.length>=22&&/[.!?]/.test(text))return {isBuild:true,reason:'Volledige alinea met bruikbare zinsstructuur voor rapport, mail, uitleg of verhaal.'};
+ return {isBuild:false,reason:matched.length?'Wel signaalwoorden, maar nog te weinig zinsstructuur of bouwfunctie.':'Geen duidelijke bouwfunctie op dit moment.'};
+}
+
+function classifyBlocks(blocks){
+ const result={story:[],dupes:[],noise:[]};
+ const originals=[];
+ blocks.forEach((text,i)=>{
+  const nr=i+1;
+  let best={score:0,index:-1};
+  originals.forEach((prev,idx)=>{const score=similarity(text,prev);if(score>best.score)best={score,index:idx}});
+  const item={nr,text,tags:tagsFor(text),category:'',reason:'',anchor:false};
+  if(best.score>=0.70){
+   item.category='DUBBEL / HERHALING';
+   item.reason=`Lijkt op blok ${best.index+1} (${Math.round(best.score*100)}% overeenkomst).`;
+   item.anchor=reasonForBuild(text).isBuild;
+   result.dupes.push(item);
+  }else{
+   const build=reasonForBuild(text);
+   if(build.isBuild){item.category='VERHAALOPBOUW';item.reason=build.reason;result.story.push(item)}
+   else{item.category='RUIS / NU NIET';item.reason=build.reason;result.noise.push(item)}
+  }
+  originals.push(text);
+ });
+ return result;
+}
+
+function analyzeInput(){
+ const text=$('input').value.trim();
+ lastResult=text?classifyBlocks(splitBlocks(text)):{story:[],dupes:[],noise:[]};
+ render();
+}
+
+function render(){
+ $('countStory').textContent=lastResult.story.length;
+ $('countDup').textContent=lastResult.dupes.length;
+ $('countNoise').textContent=lastResult.noise.length;
+ $('story').innerHTML=renderList(lastResult.story,'green');
+ $('dupes').innerHTML=renderList(lastResult.dupes,'yellow');
+ $('noise').innerHTML=renderList(lastResult.noise,'red');
+}
+
+function renderList(items,color){
+ if(!items.length)return '<div class="empty">Nog geen blokken.</div>';
+ return items.map(item=>`<article class="card"><div class="meta"><span class="badge blue">blok ${item.nr}</span><span class="badge ${color}">${escapeHtml(item.category)}</span>${item.anchor?'<span class="badge green">mogelijk kernanker</span>':''}</div><div class="reason">${escapeHtml(item.reason)}</div><div class="meta">${item.tags.length?item.tags.map(t=>`<span class="badge">${escapeHtml(t)}</span>`).join(''):'<span class="badge">geen tags</span>'}</div><div class="text">${escapeHtml(item.text)}</div></article>`).join('');
+}
+
+function exportText(){
+ const part=(title,items)=>`====================\n${title}\n====================\n\n${items.length?items.map(item=>`[Blok ${item.nr}]\nCategorie: ${item.category}\nReden: ${item.reason}\nTags: ${item.tags.join(', ')||'geen'}${item.anchor?'\nBadge: mogelijk kernanker':''}\n\n${item.text}`).join('\n\n---\n\n'):'—'}\n`;
+ return [part('VERHAALOPBOUW',lastResult.story),part('DUBBEL / HERHALING',lastResult.dupes),part('RUIS / NU NIET',lastResult.noise)].join('\n');
+}
+
+function exportTxt(){
+ if(!lastResult.story.length&&!lastResult.dupes.length&&!lastResult.noise.length)analyzeInput();
+ const blob=new Blob([exportText()],{type:'text/plain;charset=utf-8'});
+ const a=document.createElement('a');
+ a.href=URL.createObjectURL(blob);
+ a.download='structuur_engine_level_1a_verhaal_filter_export.txt';
+ a.click();
+ URL.revokeObjectURL(a.href);
+}
+
+function resetAll(){
+ $('input').value='';
+ lastResult={story:[],dupes:[],noise:[]};
+ render();
+}
+
+function escapeHtml(s){
+ return String(s).replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+}
+
+render();
+</script>
+</body>
+</html>
