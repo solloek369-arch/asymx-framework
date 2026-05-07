@@ -1,5 +1,8 @@
 # Open Case Study 05 — Sligro: Deepsearch Questions and Source-Backed Answers
 
+> **Public Source Notice:** This open-source document translates publicly visible signals into AsymX visibility questions. It relies entirely on public information. It contains no internal company data, performs no operational diagnosis, and makes no claims about internal software performance. See `00_ASYMX_PUBLIC_DATA_GOVERNANCE.md`.
+
+
 ## Status
 
 STRUCTUURLAAG / DEEPSEARCH-LAAG / IN ONDERZOEK / PUBLIEK-BRONVEILIG

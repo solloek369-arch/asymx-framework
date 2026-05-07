@@ -1,5 +1,8 @@
 # Case 06 — Plug-and-Play Validation Patterns
 
+> **Public Source Notice:** This open-source document translates publicly visible signals into AsymX visibility questions. It relies entirely on public information. It contains no internal company data, performs no operational diagnosis, and makes no claims about internal software performance. See `00_ASYMX_PUBLIC_DATA_GOVERNANCE.md`.
+
+
 ## Purpose
 
 Case 06 zet een zichtbaar genoeg signaal uit Case 05 om in een kleine, veilige en herhaalbare validatieroute.

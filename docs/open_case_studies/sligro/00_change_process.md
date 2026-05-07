@@ -30,7 +30,7 @@ Public information may be used, but only when the source status, interpretation 
 
 At first, the work moved toward an open case-study structure.
 
-The intentionas:
+The intention was:
 
 - to use public information;
 - to show how AsymX reads visible patterns;
