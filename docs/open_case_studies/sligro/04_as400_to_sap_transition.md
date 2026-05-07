@@ -22,7 +22,7 @@ It translates public signals, sector patterns and visible questions into a simpl
 
 ## Publiek signaal
 
-Sligro heeft publiek zichtbaar een grote ERP-transitie ingezet: van een eigen ERP-applicatie op IBM AS/400 naar SAP S/4HANA for Retail.
+Public sources describe a visible ERP transition context: from a proprietary ERP application on IBM AS/400 toward SAP S/4HANA for Retail.
 
 Deze beweging past in een bredere ontwikkeling van zelfbouw en eigen beheer naar standaardapplicaties, regie, schaalbaarheid en integratie.
 

@@ -12,7 +12,7 @@ The goal is to show a careful movement:
 from public signal,
 to claim-safe question,
 to small validation pattern,
-without pretending to kw internal truth.
+without pretending to know internal truth.
 
 ## Movement 001 — From Open Case Study to Public Source Review
 
