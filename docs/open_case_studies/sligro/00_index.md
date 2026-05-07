@@ -30,3 +30,11 @@ Public information → simple question → possible pattern → safe lens → in
 10. Supplier friction before arrival
 11. Belgium transition anchor
 12. Space / real estate / logistics flow
+
+## Case Maps
+
+- Case 09 — Verification Invitations Map
+
+## Related Mechanics
+
+- [Pressure Release Methodology](../../mechanics/01_pressure_release_methodology.md)

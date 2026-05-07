@@ -113,6 +113,20 @@ AsymX adds:
 - reason for movement
 - what remains open
 
+## AI Output Verification Lane
+
+Every AI-assisted movement is verified using a simple visible status signal.
+
+- 🟢 **GREEN — Flow:** the output is claim-safe, mechanic-aligned and ready for review or staging.
+- 🟡 **YELLOW — Pressure point:** the content direction is useful, but the language, boundary or routing still needs massage.
+- 🔴 **RED — Cramp:** the output crosses a claim boundary, becomes diagnostic, becomes company-specific without source access, or shifts into consultancy / solution mode.
+
+The lane does not judge the person or the tool.
+
+It only marks the movement.
+
+The purpose is to prevent invisible pressure from returning as hidden correction work.
+
 ## Closing Rule
 
 The X does not move outside the AsymX mechanism.
