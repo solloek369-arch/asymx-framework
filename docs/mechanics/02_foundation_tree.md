@@ -126,13 +126,19 @@ A simple way to say it:
 
 I am not just making an app.
 
-I am building the layer underneath the apps.
+A foundation mechanism became visible underneath the apps.
 
 A phone, a watch, AI, documents and software are all useful, but without a structure underneath they become loose pieces.
 
-AsymX is the structure underneath.
+The mechanism became visible first.
 
-It helps signals find a place, pressure become visible, and movement continue without everything staying in one person's head.
+The mechanism helps signals find a place, pressure become visible, and movement continue without everything staying in one person's head.
+
+The name AsymX grew out of that visibility.
+
+I do not need to fully explain the name.
+
+For now, it is enough that the name points to the movement.
 
 ---
 
