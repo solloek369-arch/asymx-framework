@@ -57,7 +57,7 @@ These patterns may not be attributed to Sligro without explicit verification.
 ### 3.1 AS/400 → SAP as transfer lens
 
 **Public signal:**  
-Sligro’s transition from AS/400 legacy systems toward SAPpublicly visible.
+Sligro’s transition from AS/400 legacy systems toward SAP is publicly visible.
 
 **Why interesting:**  
 Large ERP transitions often involve translation between older working logic, new standardized systems, masterdata, and daily execution.
@@ -85,7 +85,7 @@ Masterdata is a core bridge between article data, location logic, replenishment,
 A public masterdata migration context does not prove data quality issues.
 
 **Safe formulation:**  
-“Masterdata preparation is publicly visible as part of the transition. an be treated as a neutral verification point for visibility between article data, location data, and execution signals.”
+“Masterdata preparation is publicly visible as part of the transition. It can be treated as a neutral verification point for visibility between article data, location data, and execution signals.”
 
 **Route:**  
 Case 06.
@@ -117,7 +117,7 @@ Case 07 / later validation.
 Slim4 / replenishment / forecasting is publicly visible in relation to Sligro’s supply-chain context.
 
 **Why interesting:**  
-ing predicts expected demand and replenishment, while AsymX Level 1 can focus on what becomes visible at the moment reality diverges from expectation.
+Forecasting predicts expected demand and replenishment, while AsymX Level 1 can focus on what becomes visible at the moment reality diverges from expectation.
 
 **Why not claimable:**  
 The existence of forecasting does not prove that forecasting is wrong or incomplete.
@@ -141,7 +141,7 @@ They translate the abstract system-versus-floor question into small observable e
 **Why not claimable:**  
 General logistics literature is not evidence of a Sligro-specific situation.
 
-**Safe formion:**  
+**Safe formulation:**  
 “Inventory Record Inaccuracy and phantom inventory are general logistics patterns. They can be used as dummydata validation lenses without claiming they occur inside Sligro.”
 
 **Route:**  
@@ -180,7 +180,7 @@ It may not show cause, blame, failure, damage, or internal diagnosis.
 
 ### Safe as question
 
-“Publieke bronnen laten zien dat meerdere systeem- en supply-chain lagen tegeliegen. Zou een kleine, lokale zichtbaarheidslens behulpzaam kunnen zijn om te verifiëren welke signalen al zichtbaar genoeg zijn?”
+“Publieke bronnen laten zien dat meerdere systeem- en supply-chain lagen tegelijk bewegen. Zou een kleine, lokale zichtbaarheidslens behulpzaam kunnen zijn om te verifiëren welke signalen al zichtbaar genoeg zijn?”
 
 ### Safe as observation
 
@@ -212,7 +212,9 @@ The following topics remain parked:
 2. Assetmax-like real-time visibility comparison.
 3. ESG connection.
 4. Full dashboard.
-5. Stiebrief.
+5. Directiebrief.
+6. PowerPoint.
+7. Formal pitch.
 8. Team or location blame.
 9. Root-cause analysis.
 10. Internal diagnosis.
