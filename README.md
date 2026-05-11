@@ -26,17 +26,47 @@ HINT
   tree in  →  read leaves  →  core out
 ```
 
-*Boot-screen tone is borrowed from early personal computing: **Commodore** = clarity at power-on; **Eagle** = overview and syntax; **Condor** = patient, long-pattern attention. Metaphor only—no claim of authority or prophecy.*
-
 ---
 
 ## Public leaf — boundary first
 
-**GitHub is not the web.** It is not the vault. It is not the default destination. This `README` is the **public landing leaf**—bounded, **claim-light**, and **human-gated**.
+**GitHub is not the web.** **GitHub is a visibility layer**—not the vault, not the default destination, not the root of the whole field. This `README` is the **public landing leaf**—bounded, **claim-light**, and **human-gated**.
 
-What you see here is **orientation**, not a proof layer. **Public = NO by default.** **RAW / VAULT first.** **PARK** is also routing. **AI** is a **lens**, not a source of truth. **Chat traces** are **input** for review, not evidence.
+What you read here is **orientation**, not a proof layer. **Public = NO by default.** **RAW / VAULT first.** **PARK** is also routing. **AI** is a **lens**, not a source of truth. **Chat traces** are **input** for review, not evidence.
 
-**Cultural safety:** no mock ceremony, no psychedelic framing, no “sacred product.” Mother Nature / land / body stay **off-limits** as branding here. This page stays **respectful and sober**.
+**Cultural safety:** no mock ceremony, no psychedelic framing, no borrowed Indigenous **iconography** as ornament. Stay sober—no “sacred product,” no land or living world as **branding**.
+
+---
+
+## Natural symbol layer
+
+Symbols here are **functional orientation**, not decoration. Colors map to **how the system behaves** in the world: **root**, **leaf**, **path**, **web**, **breath**.
+
+| Marker | Natural image | Function |
+|:---:|:---|:---|
+| ⚫ **FIELD / VAULT** | soil, root, night, seedbed | **Source stays intact** before anything is shown |
+| 🔴 **APPEARANCE** | sprout, wound, fruit, signal flower | **Something becomes visible** |
+| 🔵 **DISAPPEARANCE** | river, mist, rain, leaf fall | **Something may fade, move, release, or drop**—without shame |
+| 🟡 **X / INTERSECTION** | sun angle, pollen trail, crossing, attention point | **Relation, tension, crossing**—the web may hold ambiguity |
+| 🟢 **PATH / LEAF** | leaf, branch, forest path | **Bounded, repeatable pattern**—public-safe only when stabilized and gated |
+
+**Root / leaf / path:** this public repository is a **leaf**, not the **tree**. The **vault** is root/soil—**not** posted here. A **path** is what shows when a pattern **repeats** or **stabilizes**—not every impulse becomes a route.
+
+**Web:** many threads may **cross** (**🟡**) without forcing one closure.
+
+**Breath:** **appearance (🔴)** and **disappearance (🔵)** can alternate **without** an automatic **DO**—presence before intervention.
+
+---
+
+## Commodore × Eagle × Condor (light metaphor)
+
+A **Commodore-era** boot screen is a metaphor for **machine clarity**—structure, syntax, code, and **what appears on screen when power comes on**.
+
+**Eagle** stands for **overview** and **syntax**—how parts fit when seen from above.
+
+**Condor** stands for **long-pattern patience**—living relation and recurrence, not a one-shot output.
+
+Together they name **two tempos**: **machine legibility** and **slow pattern**. **Not** prophecy, **not** sacred authority, **not** the core framework—only a **sober** reminder that AsymX holds **both** structure and duration.
 
 ---
 
@@ -52,7 +82,7 @@ AsymX studies **asymmetry**, **visibility**, **intersection**, and **path format
 
 ---
 
-## Symbol map (navigation)
+## Structural colors (quick map)
 
 | Symbol | Layer | Meaning |
 |:---:|:---|:---|
@@ -61,6 +91,20 @@ AsymX studies **asymmetry**, **visibility**, **intersection**, and **path format
 | 🔵 | Disappearance / release | Fade, drop, resolve—allowed to go quiet |
 | 🟡 | X / Intersection | Crossing, tension, relation, attention |
 | 🟢 | Path / Leaf | Stabilized route; public-safe only when gated |
+
+---
+
+## Visual grammar
+
+AsymX uses a small **visual grammar** so the structure stays scannable. These are ordinary **visual primitives**—**circle / field**, **dot / signal**, **crossing**, **line / path**, **wave / release**—common across human **visual communication**. They are used here **only** as a lightweight navigation layer, **without** cultural ownership, origin claims, or ceremonial framing.
+
+```text
+⚫ FIELD      passive space / vault / not-yet-visible
+🔴 SIGNAL     something appears
+🟡 CROSSING   relation / tension / attention
+🟢 PATH       repeated route / public-safe leaf
+🔵 RELEASE    fade / drop / allowed to disappear
+```
 
 ---
 
@@ -100,7 +144,7 @@ LLM / extraction lens—stateless where possible. **AI is a lens, not a source o
 
 ### 3. Glue
 
-Deterministic code and human-gated logic—status, routing, structure. Intake is aimed to **degrade gracefully** when context is thin—**not** a promise of perfect uptime.
+Deterministic code and human-gated logic—status, routing, structure. Intake is aimed to **degrade gracefully** when context is thin—**not** a promise of faultless operation.
 
 ---
 
@@ -135,7 +179,7 @@ Patterns may stabilize when similar signals **repeat quietly**. No need to valid
 
 ---
 
-## Current directions
+## Source Vault · Leaf layer · tools
 
 ### ⚫ Source Vault
 
@@ -151,7 +195,7 @@ Only **small, bounded, public-safe** leaves—never the full vault.
 
 ### ⚫ Watch Tree
 
-**Private / vault-side** capsule for presence-oriented capture—**not** public data; **not** medical claims; retreat-style use needs **no** on-site AI.
+**Private / vault-side** capsule for presence-oriented traces—**not** public data; not a diagnostic claim; **no** on-site AI required for quiet capture modes.
 
 ### 🟢 Level 1 lenses
 
@@ -171,6 +215,22 @@ Optional visual run—rough edges can stay **intentional**.
 python3 -m pip install -r requirements.txt
 python3 asymx_sim.py
 ```
+
+---
+
+## How to read this repository
+
+1. **Start at the top**—boundary and symbols first, detail second.  
+2. Treat this repo as **one public leaf**: documentation and code snippets shared **on purpose**, not the full AsymX **field**.  
+3. **Root stays hidden**—vault and private process are **not** exported here by default.  
+4. Use tables for **navigation**; use narrative sections for **intent**.  
+5. Nothing here is **warranty**, **proof of completeness**, or **instruction for sensitive domains**—when in doubt, **pause** and **gate** with human meaning.
+
+---
+
+## License
+
+This project uses the **MIT License**. See the [`LICENSE`](LICENSE) file in the repository root.
 
 ---
 
