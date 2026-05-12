@@ -34,6 +34,8 @@ HINT
 
 What you read here is **orientation**, not a proof layer. **Public = NO by default.** **RAW / VAULT first.** **PARK** is also routing. **AI** is a **lens**, not a source of truth. **Chat traces** are **input** for review, not evidence.
 
+In this repository, GitHub is public earth after fire: a small visibility layer, not the vault. Nothing publishes by default—only bounded leaves after a human + X gate. Source stays intact upstream; what appears here is meant to stay claim-light, correction-friendly, and hospitable to open questions: orientation neighbours can use or challenge, not a closed proof package.
+
 **Cultural safety:** no mock ceremony, no psychedelic framing, no borrowed Indigenous **iconography** as ornament. Stay sober—no “sacred product,” no land or living world as **branding**.
 
 ---
