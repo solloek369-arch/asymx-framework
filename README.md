@@ -40,6 +40,25 @@ In this repository, GitHub is public earth after fire: a small visibility layer,
 
 ---
 
+## Repository map — six gates on `main`
+
+Top-level folders are one calm routing layer (orientation, not doctrine):
+
+| Folder | Role |
+|:---|:---|
+| [`source/`](source/) | Prima materia — raw field stays intact |
+| [`looking-glass/`](looking-glass/) | Public docs, mechanism notes, research leaves |
+| [`living-routes/`](living-routes/) | Stabilizing paths and cross-case pointers |
+| [`workbench/`](workbench/) | Level 1 tools — local HTML demos, schemas |
+| [`gates-friction/`](gates-friction/) | Safety, gates, friction mechanics |
+| [`archive-vault/`](archive-vault/) | Archive — preserve without forcing movement |
+
+Shared trunk files (`README.md`, `LICENSE`, …) stay at the repository root.
+
+**Quick entries:** [Open case studies](looking-glass/docs/open_case_studies/README.md) · [Lens registry](looking-glass/docs/lens_registry.md)
+
+---
+
 ## Natural symbol layer
 
 Symbols here are **functional orientation**, not decoration. Colors map to **how the system behaves** in the world: **root**, **leaf**, **path**, **web**, **breath**.

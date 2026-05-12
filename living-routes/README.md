@@ -9,7 +9,7 @@ Possible route families:
 
 - Personal Look
 - Invited
-- open cases
+- open cases — pointer entrance: [`../looking-glass/docs/open_case_studies/README.md`](../looking-glass/docs/open_case_studies/README.md)
 - music
 - movement
 - learning
