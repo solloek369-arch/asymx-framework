@@ -1,6 +1,6 @@
-# Looking Glass
+# A way 2 Look
 
-**🟡 Looking Glass** · Yellow — Observation tools & lenses · folder `🟡-10-looking-glass/`
+**🟡 A way 2 Look** · Yellow — Observation tools & lenses · folder `🟡 A way 2 Look`
 
 **Status:** public visibility layer  
 **Function:** bounded documents, Level 1 language, open cases and mechanism notes—orientation, not proof.

@@ -1,6 +1,6 @@
 # Archive / Vault
 
-**⚪ Archive / Vault** · White — Everything that stays local for now · folder `⚪-50-archive-vault/`
+**⚪ The Web** · White — Traces, archive — what may stay local or compost · folder `⚪ The Web`
 
 **Status:** preserve without public movement  
 **Function:** keep material findable without forcing it into action.

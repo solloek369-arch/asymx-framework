@@ -11,12 +11,12 @@ Repo:
 /Users/loek/SWON/asymx-framework
 
 Huidige basis:
-- Logistics Level 1 staat als publieke statische lokale lens in `🔵-30-workbench/logistics-level1/`.
+- Logistics Level 1 staat als publieke statische lokale lens in `🔵 Playfield/logistics-level1/`.
 - Release-tag: `logistics-level1-v1.0`.
-- Engine Register v1 staat in `🟡-10-looking-glass/docs/engine_register.md` en `🟡-10-looking-glass/docs/engine_register.json`.
-- Pressure Queue staat in `🟡-10-looking-glass/docs/pressure_queue.md`.
-- Open Eindjes Register staat in `🟡-10-looking-glass/docs/open_eindjes_register.md`.
-- Level 1 Open Field Map staat in `🟡-10-looking-glass/docs/level_1_open_field_map.md`.
+- Engine Register v1 staat in `🟡 A way 2 Look/docs/engine_register.md` en `🟡 A way 2 Look/docs/engine_register.json`.
+- Pressure Queue staat in `🟡 A way 2 Look/docs/pressure_queue.md`.
+- Open Eindjes Register staat in `🟡 A way 2 Look/docs/open_eindjes_register.md`.
+- Level 1 Open Field Map staat in `🟡 A way 2 Look/docs/level_1_open_field_map.md`.
 
 Niet doen:
 - geen bron overschrijven
@@ -39,9 +39,9 @@ Maak eerst Chat Capsule / Chat Web Index mogelijk, zodat oude chats veilig ingek
 
 Voordat je iets wijzigt:
 1. Run `git status`.
-2. Lees `🟡-10-looking-glass/docs/engine_register.md`.
-3. Lees `🟡-10-looking-glass/docs/pressure_queue.md`.
-4. Lees `🟡-10-looking-glass/docs/open_eindjes_register.md`.
+2. Lees `🟡 A way 2 Look/docs/engine_register.md`.
+3. Lees `🟡 A way 2 Look/docs/pressure_queue.md`.
+4. Lees `🟡 A way 2 Look/docs/open_eindjes_register.md`.
 5. Benoem exact welke file(s) je wilt wijzigen.
 6. Geef één kleine veilige stap.
 

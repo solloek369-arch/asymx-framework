@@ -7,23 +7,27 @@
 | Layer | Colour | What it holds |
 | --- | --- | --- |
 | **⚫ Source / Prima Materia** | Black | The one raw, untouched origin |
-| **🟡 Looking Glass** | Yellow | Observation tools & lenses |
-| **🟢 Living Routes** | Green | Active paths, flows & connections |
-| **🔵 Workbench** | Blue | Experiments, prototypes & mechanics |
-| **🔴 Gates / Friction** | Red | Boundaries, checks & necessary resistance |
-| **⚪ Archive / Vault** | White | Everything that stays local for now |
+| **🟡 A way 2 Look** | Yellow | Observation tools & lenses |
+| **🟢 Natural Living Routes** | Green | Active paths, flows & connections |
+| **🔵 Playfield** | Blue | Experiments, prototypes & mechanics |
+| **🔴 Release** | Red | Boundaries, checks & necessary resistance |
+| **⚪ The Web** | White | Traces, archive — what may stay local or compost |
 
-**Folders (repo root):** [`⚫-00-source/`](⚫-00-source/) · [`🟡-10-looking-glass/`](🟡-10-looking-glass/) · [`🟢-20-living-routes/`](🟢-20-living-routes/) · [`🔵-30-workbench/`](🔵-30-workbench/) · [`🔴-40-gates-friction/`](🔴-40-gates-friction/) · [`⚪-50-archive-vault/`](⚪-50-archive-vault/)
+**Six gates (repo root):** [`⚫ Source`](⚫%20Source/) · [`🟡 A way 2 Look`](🟡%20A%20way%202%20Look/) · [`🟢 Natural Living Routes`](🟢%20Natural%20Living%20Routes/) · [`🔵 Playfield`](🔵%20Playfield/) · [`🔴 Release`](🔴%20Release/) · [`⚪ The Web`](⚪%20The%20Web/)
 
-**Quick entries:** [Open case studies](🟡-10-looking-glass/docs/open_case_studies/README.md) · [Lens registry](🟡-10-looking-glass/docs/lens_registry.md)
+### Motherflower — after rain
+
+Living loop folders (**orientation**, same claim-light rule as the rest): [`🟤 Ground`](🟤%20Ground/) · [`🟣 Mystery`](🟣%20Mystery/) · [`🩷 Flower`](🩷%20Flower/) · [`🟠 Flow`](🟠%20Flow/) · [`↺ terug naar Source`](%E2%86%BA%20terug%20naar%20Source/) — full sketch: [`🟤 Ground/00_motherflower_loop.md`](🟤%20Ground/00_motherflower_loop.md).
+
+**Quick entries:** [Open case studies](🟡%20A%20way%202%20Look/docs/open_case_studies/README.md) · [Lens registry](🟡%20A%20way%202%20Look/docs/lens_registry.md)
 
 ---
 
 ```text
 ASYMX-BOOT v0.1  ⚫🟡🟢🔵🔴⚪
 
-Six gates on disk — folder names carry emoji + numeric prefix (listing order):
-  ⚫-00-source · 🟡-10-looking-glass · 🟢-20-living-routes · 🔵-30-workbench · 🔴-40-gates-friction · ⚪-50-archive-vault
+Six gates on disk — names carry emoji + human-readable titles (listing order):
+  ⚫ Source · 🟡 A way 2 Look · 🟢 Natural Living Routes · 🔵 Playfield · 🔴 Release · ⚪ The Web
 
 > FIELD CHECK...............OK
 > RAW / VAULT...............ONLINE (default route)

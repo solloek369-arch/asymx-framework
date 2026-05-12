@@ -23,15 +23,15 @@ Doel: één actuele sync-laag voor mens + AI + repo. Dit bestand verlaagt druk: 
 
 ## Actieve drukverlagende documenten
 
-- `🟡-10-looking-glass/docs/engine_register.md` — wat bestaat er?
-- `🟡-10-looking-glass/docs/engine_register.json` — machineleesbare engine-status
-- `🟡-10-looking-glass/docs/pressure_queue.md` — wat vraagt nu aandacht?
-- `🟡-10-looking-glass/docs/open_eindjes_register.md` — wat mag blijven liggen zonder hoofd-druk?
-- `🟡-10-looking-glass/docs/level_1_open_field_map.md` — publieke Level 1 veldkaart
+- `🟡 A way 2 Look/docs/engine_register.md` — wat bestaat er?
+- `🟡 A way 2 Look/docs/engine_register.json` — machineleesbare engine-status
+- `🟡 A way 2 Look/docs/pressure_queue.md` — wat vraagt nu aandacht?
+- `🟡 A way 2 Look/docs/open_eindjes_register.md` — wat mag blijven liggen zonder hoofd-druk?
+- `🟡 A way 2 Look/docs/level_1_open_field_map.md` — publieke Level 1 veldkaart
 
 ## Actieve publieke Level 1-lens
 
-- `🔵-30-workbench/logistics-level1/`
+- `🔵 Playfield/logistics-level1/`
 - Status: public/static/local-only Level 1
 - Tag: `logistics-level1-v1.0`
 - Geen backend
@@ -47,7 +47,7 @@ Doel: één actuele sync-laag voor mens + AI + repo. Dit bestand verlaagt druk: 
 1. Bron blijft heilig.
 2. Geen bestaande werkende files overschrijven zonder expliciete opdracht.
 3. Geen refactor om het refactoren.
-4. Geen nieuwe engine bouwen voordat hij in `🟡-10-looking-glass/docs/engine_register.md` staat.
+4. Geen nieuwe engine bouwen voordat hij in `🟡 A way 2 Look/docs/engine_register.md` staat.
 5. Geen grote app maken als één markdown/protocol de druk al verlaagt.
 6. Geen claims harder maken dan bewijs toestaat.
 7. Level 1 blijft lokaal, statisch, inspecteerbaar en veilig.
@@ -99,29 +99,29 @@ AsymX staat nu in een veilige Level 1-publicatiefase: de eerste publieke logisti
 
 Na de eerste NOW-sync zijn twee extra bestaande engines veilig geoogst als Level 1-lenzen:
 
-- `🔵-30-workbench/chat-intake-level1/` — tag: `chat-intake-level1-v1.0`
-- `🔵-30-workbench/story-filter-level1/` — tag: `story-filter-level1-v1.0`
+- `🔵 Playfield/chat-intake-level1/` — tag: `chat-intake-level1-v1.0`
+- `🔵 Playfield/story-filter-level1/` — tag: `story-filter-level1-v1.0`
 
 Actuele released Level 1-lenzen:
 
-1. `🔵-30-workbench/logistics-level1/`
-2. `🔵-30-workbench/chat-intake-level1/`
-3. `🔵-30-workbench/story-filter-level1/`
+1. `🔵 Playfield/logistics-level1/`
+2. `🔵 Playfield/chat-intake-level1/`
+3. `🔵 Playfield/story-filter-level1/`
 
-Zie ook: `🟡-10-looking-glass/docs/lens_registry.md`.
+Zie ook: `🟡 A way 2 Look/docs/lens_registry.md`.
 
 ## Update — drie Level 1-lenzen zichtbaar
 
  huidige stand is bijgewerkt in:
 
-- `🟡-10-looking-glass/docs/RELEASE_STATE.md`
-- `🟡-10-looking-glass/docs/lens_registry.md`
+- `🟡 A way 2 Look/docs/RELEASE_STATE.md`
+- `🟡 A way 2 Look/docs/lens_registry.md`
 
 Actuele released Level 1-lenzen:
 
-1. `🔵-30-workbench/logistics-level1/` — `logistics-level1-v1.0`
-2. `🔵-30-workbench/chat-intake-level1/` — `chat-intake-level1-v1.0`
-3. `🔵-30-workbench/story-filter-level1/` — `story-filter-level1-v1.0`
+1. `🔵 Playfield/logistics-level1/` — `logistics-level1-v1.0`
+2. `🔵 Playfield/chat-intake-level1/` — `chat-intake-level1-v1.0`
+3. `🔵 Playfield/story-filter-level1/` — `story-filter-level1-v1.0`
 
 Deze releases zijn ankerpunten, geen eindwaarheden.
 

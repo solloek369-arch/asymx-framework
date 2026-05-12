@@ -18,21 +18,21 @@ Er zijn nu drie Level 1-lenzen geoogst, gepusht en getagd.
 
 | Nr | Lens | Pad | Tag | Betekenis |
 |---:|---|---|---|---|
-| 01 | Logistics Level 1 / Static Shadow Run Lens | `🔵-30-workbench/logistics-level1/` | `logistics-level1-v1.0` | Logistieke frictie lokaal zichtbaar maken zonder upload of harde claims. |
-| 02 | Chat Intake Vault | `🔵-30-workbench/chat-intake-level1/` | `chat-intake-level1-v1.0` | AI/chats veilig innemen; bron intact houden; eerste routing mogelijk maken. |
-| 03 | Story Filter | `🔵-30-workbench/story-filter-level1/` | `story-filter-level1-v1.0` | Tekst splitsen in verhaalopbouw, herhaling en ruis/nu niet. |
+| 01 | Logistics Level 1 / Static Shadow Run Lens | `🔵 Playfield/logistics-level1/` | `logistics-level1-v1.0` | Logistieke frictie lokaal zichtbaar maken zonder upload of harde claims. |
+| 02 | Chat Intake Vault | `🔵 Playfield/chat-intake-level1/` | `chat-intake-level1-v1.0` | AI/chats veilig innemen; bron intact houden; eerste routing mogelijk maken. |
+| 03 | Story Filter | `🔵 Playfield/story-filter-level1/` | `story-filter-level1-v1.0` | Tekst splitsen in verhaalopbouw, herhaling en ruis/nu niet. |
 
 ## Actieve drukverlagende documenten
 
 | Document | Functie |
 |---|---|
-| `🟡-10-looking-glass/docs/NOW.md` | Waar staan we nu? |
-| `🟡-10-looking-glass/docs/engine_register.md` | Welke engines bestaan er? |
-| `🟡-10-looking-glass/docs/engine_register.json` | Machineleesbare enginekaart |
-| `🟡-10-looking-glass/docs/pressure_queue.md` | Wat vraagt nu aandacht? |
-| `🟡-10-looking-glass/docs/open_eindjes_register.md` | Wat mag blijven liggen zonder hoofd-druk? |
-| `🟡-10-looking-glass/docs/ai_session_sync_prompt.md` | Startprompt voor AI/Cursor-sessies |
-| `🟡-10-looking-glass/docs/level_1_open_field_map.md` | Publieke Level 1 veldkaart |
+| `🟡 A way 2 Look/docs/NOW.md` | Waar staan we nu? |
+| `🟡 A way 2 Look/docs/engine_register.md` | Welke engines bestaan er? |
+| `🟡 A way 2 Look/docs/engine_register.json` | Machineleesbare enginekaart |
+| `🟡 A way 2 Look/docs/pressure_queue.md` | Wat vraagt nu aandacht? |
+| `🟡 A way 2 Look/docs/open_eindjes_register.md` | Wat mag blijven liggen zonder hoofd-druk? |
+| `🟡 A way 2 Look/docs/ai_session_sync_prompt.md` | Startprompt voor AI/Cursor-sessies |
+| `🟡 A way 2 Look/docs/level_1_open_field_map.md` | Publieke Level 1 veldkaart |
 
 ## Basisregels
 
