@@ -3,7 +3,10 @@
 **A living structural framework for asymmetry, visibility, intersection, and path formation.**
 
 ```text
-ASYMX-BOOT v0.1  ⚫🟡🟢
+ASYMX-BOOT v0.1  ⚫🟡🟢🔵🔴⚪
+
+Six gates on disk (same order as numeric folder prefixes — colours appear here, not in GitHub’s plain file list):
+  ⚫ 00-source · 🟡 10-looking-glass · 🟢 20-living-routes · 🔵 30-workbench · 🔴 40-gates-friction · ⚪ 50-archive-vault
 
 > FIELD CHECK...............OK
 > RAW / VAULT...............ONLINE (default route)
@@ -42,7 +45,7 @@ In this repository, GitHub is public earth after fire: a small visibility layer,
 
 ## Repository map — six gates on `main`
 
-Prefixes (`00-` … `50-`) set **listing order** on GitHub; they are not scores—only rhythm.
+GitHub’s repository **file browser only shows text**—it cannot paint coloured dots beside folders. **Markers + legend** live here: the boot block above and the table below. Prefixes (`00-` … `50-`) set **listing order**; they are not scores—only rhythm.
 
 | Marker | Colour cue | Folder | Role |
 |:---:|:---|:---|:---|
