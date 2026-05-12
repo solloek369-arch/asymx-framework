@@ -111,10 +111,10 @@
       "purpose": "Static local-only logistics lens for repeated manco, ghost pick, short pick, floor/WMS mismatch and shadow-run visibility.",
       "current_form": "Public micro-tool / lens",
       "known_files_or_places": [
-        "30-workbench/logistics-level1/",
-        "30-workbench/logistics-level1/docs/intentional_alignment.md",
-        "30-workbench/logistics-level1/docs/search_intent_map.md",
-        "30-workbench/logistics-level1/docs/level_1_logic.md"
+        "🔵-30-workbench/logistics-level1/",
+        "🔵-30-workbench/logistics-level1/docs/intentional_alignment.md",
+        "🔵-30-workbench/logistics-level1/docs/search_intent_map.md",
+        "🔵-30-workbench/logistics-level1/docs/level_1_logic.md"
       ],
       "feeds": [
         "Sligro Anchor",
@@ -132,7 +132,7 @@
       "purpose": "Use SEO as ethical intent-routing: help the real searcher find the real mechanism without marketing push.",
       "current_form": "Protocol + docs",
       "known_files_or_places": [
-        "30-workbench/logistics-level1/docs/intentional_alignment.md",
+        "🔵-30-workbench/logistics-level1/docs/intentional_alignment.md",
         "search_intent_map.md"
       ],
       "feeds": [

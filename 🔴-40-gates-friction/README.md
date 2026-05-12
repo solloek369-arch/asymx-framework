@@ -1,6 +1,6 @@
 # Gates / Friction
 
-**🔴 Gates / Friction** · Red — Boundaries, checks & necessary resistance · folder `40-gates-friction/`
+**🔴 Gates / Friction** · Red — Boundaries, checks & necessary resistance · folder `🔴-40-gates-friction/`
 
 **Status:** safety and boundary layer  
 **Function:** pressure checks, claim-safety, human gates and verification loops.

@@ -2,11 +2,28 @@
 
 **A living structural framework for asymmetry, visibility, intersection, and path formation.**
 
+### The Field
+
+| Layer | Colour | What it holds |
+| --- | --- | --- |
+| **⚫ Source / Prima Materia** | Black | The one raw, untouched origin |
+| **🟡 Looking Glass** | Yellow | Observation tools & lenses |
+| **🟢 Living Routes** | Green | Active paths, flows & connections |
+| **🔵 Workbench** | Blue | Experiments, prototypes & mechanics |
+| **🔴 Gates / Friction** | Red | Boundaries, checks & necessary resistance |
+| **⚪ Archive / Vault** | White | Everything that stays local for now |
+
+**Folders (repo root):** [`⚫-00-source/`](⚫-00-source/) · [`🟡-10-looking-glass/`](🟡-10-looking-glass/) · [`🟢-20-living-routes/`](🟢-20-living-routes/) · [`🔵-30-workbench/`](🔵-30-workbench/) · [`🔴-40-gates-friction/`](🔴-40-gates-friction/) · [`⚪-50-archive-vault/`](⚪-50-archive-vault/)
+
+**Quick entries:** [Open case studies](🟡-10-looking-glass/docs/open_case_studies/README.md) · [Lens registry](🟡-10-looking-glass/docs/lens_registry.md)
+
+---
+
 ```text
 ASYMX-BOOT v0.1  ⚫🟡🟢🔵🔴⚪
 
-Six gates on disk (same order as numeric folder prefixes — colours appear here, not in GitHub’s plain file list):
-  ⚫ 00-source · 🟡 10-looking-glass · 🟢 20-living-routes · 🔵 30-workbench · 🔴 40-gates-friction · ⚪ 50-archive-vault
+Six gates on disk — folder names carry emoji + numeric prefix (listing order):
+  ⚫-00-source · 🟡-10-looking-glass · 🟢-20-living-routes · 🔵-30-workbench · 🔴-40-gates-friction · ⚪-50-archive-vault
 
 > FIELD CHECK...............OK
 > RAW / VAULT...............ONLINE (default route)
@@ -29,6 +46,8 @@ HINT
   tree in  →  read leaves  →  core out
 ```
 
+*Gate colours on folders name disk routing; the SYMBOL MAP above stays the operational ⚫🔴🔵🟡🟢 grammar (appearance / release / crossing / path)—same glyphs, different zoom.*
+
 ---
 
 ## Public leaf — boundary first
@@ -41,26 +60,7 @@ In this repository, GitHub is public earth after fire: a small visibility layer,
 
 **Cultural safety:** no mock ceremony, no psychedelic framing, no borrowed Indigenous **iconography** as ornament. Stay sober—no “sacred product,” no land or living world as **branding**.
 
----
-
-## Repository map — six gates on `main`
-
-GitHub’s repository **file browser only shows text**—it cannot paint coloured dots beside folders. **Markers + legend** live here: the boot block above and the table below. Prefixes (`00-` … `50-`) set **listing order**; they are not scores—only rhythm.
-
-| Marker | Colour cue | Folder | Role |
-|:---:|:---|:---|:---|
-| ⚫ **Source / Prima Materia** | Black | [`00-source/`](00-source/) | The one raw, untouched origin |
-| 🟡 **Looking Glass** | Yellow | [`10-looking-glass/`](10-looking-glass/) | Observation tools & lenses (`docs/` lives here) |
-| 🟢 **Living Routes** | Green | [`20-living-routes/`](20-living-routes/) | Active paths, flows & connections |
-| 🔵 **Workbench** | Blue | [`30-workbench/`](30-workbench/) | Experiments, prototypes & mechanics |
-| 🔴 **Gates / Friction** | Red | [`40-gates-friction/`](40-gates-friction/) | Boundaries, checks & necessary resistance |
-| ⚪ **Archive / Vault** | White | [`50-archive-vault/`](50-archive-vault/) | Everything that stays local for now |
-
-*Gate colours here navigate folders on disk; the boot-screen grammar higher up stays the operational ⚫🔴🔵🟡🟢 map (appearance / release / crossing / path)—same glyphs, different zoom.*
-
 Shared trunk files (`README.md`, `LICENSE`, …) stay at the repository root.
-
-**Quick entries:** [Open case studies](10-looking-glass/docs/open_case_studies/README.md) · [Lens registry](10-looking-glass/docs/lens_registry.md)
 
 ---
 

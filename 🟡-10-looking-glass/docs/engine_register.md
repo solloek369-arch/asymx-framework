@@ -87,7 +87,7 @@ Doel: druk verlagen door alle bekende engines één plek, status en kleinste vol
 - **Aandacht:** LOW
 - **Doel:** Static local-only logistics lens for repeated manco, ghost pick, short pick, floor/WMS mismatch and shadow-run visibility.
 - **Huidige vorm:** Public micro-tool / lens
-- **Bekende plek/files:** 30-workbench/logistics-level1/, 30-workbench/logistics-level1/docs/intentional_alignment.md, 30-workbench/logistics-level1/docs/search_intent_map.md, 30-workbench/logistics-level1/docs/level_1_logic.md
+- **Bekende plek/files:** 🔵-30-workbench/logistics-level1/, 🔵-30-workbench/logistics-level1/docs/intentional_alignment.md, 🔵-30-workbench/logistics-level1/docs/search_intent_map.md, 🔵-30-workbench/logistics-level1/docs/level_1_logic.md
 - **Voedt:** Sligro Anchor, Intentional Alignment Engine, Public GitHub Lens Registry
 - **Kleinste volgende stap:** Leave stable; only update docs if needed.
 
@@ -98,7 +98,7 @@ Doel: druk verlagen door alle bekende engines één plek, status en kleinste vol
 - **Aandacht:** LOW
 - **Doel:** Use SEO as ethical intent-routing: help the real searcher find the real mechanism without marketing push.
 - **Huidige vorm:** Protocol + docs
-- **Bekende plek/files:** 30-workbench/logistics-level1/docs/intentional_alignment.md, search_intent_map.md
+- **Bekende plek/files:** 🔵-30-workbench/logistics-level1/docs/intentional_alignment.md, search_intent_map.md
 - **Voedt:** GitHub lens titles, README structures, Deep technical docs
 - **Kleinste volgende stap:** Reuse in every public Level 1 lens with head terms + depth terms + no-data-policy.
 

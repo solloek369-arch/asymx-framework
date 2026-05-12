@@ -20,9 +20,9 @@ Level 1 betekent:
 
 | Nr | Lens | Pad | Tag |
 |---:|---|---|---|
-| 01 | Logistics Level 1 / Static Shadow Run Lens | `30-workbench/logistics-level1/` | `logistics-level1-v1.0` |
-| 02 | Chat Intake Vault | `30-workbench/chat-intake-level1/` | `chat-intake-level1-v1.0` |
-| 03 | Story Filter | `30-workbench/story-filter-level1/` | `story-filter-level1-v1.0` |
+| 01 | Logistics Level 1 / Static Shadow Run Lens | `🔵-30-workbench/logistics-level1/` | `logistics-level1-v1.0` |
+| 02 | Chat Intake Vault | `🔵-30-workbench/chat-intake-level1/` | `chat-intake-level1-v1.0` |
+| 03 | Story Filter | `🔵-30-workbench/story-filter-level1/` | `story-filter-level1-v1.0` |
 
 ## Next candidates
 
@@ -50,8 +50,8 @@ Level 1 betekent:
 ## Werkregel
 
 Nieuwe lens pas toevoegen als:
-1. hij in `10-looking-glass/docs/engine_register.md` staat;
-2. hij past in `10-looking-glass/docs/pressure_queue.md` of `10-looking-glass/docs/open_eindjes_register.md`;
+1. hij in `🟡-10-looking-glass/docs/engine_register.md` staat;
+2. hij past in `🟡-10-looking-glass/docs/pressure_queue.md` of `🟡-10-looking-glass/docs/open_eindjes_register.md`;
 3. hij klein genoeg is voor Level 1;
 4. hij geen bron overschrijft;
 5. hij nu druk verlaagt.
