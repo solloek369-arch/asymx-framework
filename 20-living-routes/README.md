@@ -1,5 +1,7 @@
 # Living Routes
 
+**🟢 Living Routes** · Green — Active paths, flows & connections · folder `20-living-routes/`
+
 **Status:** route layer  
 **Function:** patterns that may become useful paths.
 
@@ -9,7 +11,7 @@ Possible route families:
 
 - Personal Look
 - Invited
-- open cases — pointer entrance: [`../looking-glass/docs/open_case_studies/README.md`](../looking-glass/docs/open_case_studies/README.md)
+- open cases — pointer entrance: [`../10-looking-glass/docs/open_case_studies/README.md`](../10-looking-glass/docs/open_case_studies/README.md)
 - music
 - movement
 - learning

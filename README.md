@@ -42,20 +42,22 @@ In this repository, GitHub is public earth after fire: a small visibility layer,
 
 ## Repository map — six gates on `main`
 
-Top-level folders are one calm routing layer (orientation, not doctrine):
+Prefixes (`00-` … `50-`) set **listing order** on GitHub; they are not scores—only rhythm.
 
-| Folder | Role |
-|:---|:---|
-| [`source/`](source/) | Prima materia — raw field stays intact |
-| [`looking-glass/`](looking-glass/) | Public docs, mechanism notes, research leaves |
-| [`living-routes/`](living-routes/) | Stabilizing paths and cross-case pointers |
-| [`workbench/`](workbench/) | Level 1 tools — local HTML demos, schemas |
-| [`gates-friction/`](gates-friction/) | Safety, gates, friction mechanics |
-| [`archive-vault/`](archive-vault/) | Archive — preserve without forcing movement |
+| Marker | Colour cue | Folder | Role |
+|:---:|:---|:---|:---|
+| ⚫ **Source / Prima Materia** | Black | [`00-source/`](00-source/) | The one raw, untouched origin |
+| 🟡 **Looking Glass** | Yellow | [`10-looking-glass/`](10-looking-glass/) | Observation tools & lenses (`docs/` lives here) |
+| 🟢 **Living Routes** | Green | [`20-living-routes/`](20-living-routes/) | Active paths, flows & connections |
+| 🔵 **Workbench** | Blue | [`30-workbench/`](30-workbench/) | Experiments, prototypes & mechanics |
+| 🔴 **Gates / Friction** | Red | [`40-gates-friction/`](40-gates-friction/) | Boundaries, checks & necessary resistance |
+| ⚪ **Archive / Vault** | White | [`50-archive-vault/`](50-archive-vault/) | Everything that stays local for now |
+
+*Gate colours here navigate folders on disk; the boot-screen grammar higher up stays the operational ⚫🔴🔵🟡🟢 map (appearance / release / crossing / path)—same glyphs, different zoom.*
 
 Shared trunk files (`README.md`, `LICENSE`, …) stay at the repository root.
 
-**Quick entries:** [Open case studies](looking-glass/docs/open_case_studies/README.md) · [Lens registry](looking-glass/docs/lens_registry.md)
+**Quick entries:** [Open case studies](10-looking-glass/docs/open_case_studies/README.md) · [Lens registry](10-looking-glass/docs/lens_registry.md)
 
 ---
 

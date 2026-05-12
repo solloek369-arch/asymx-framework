@@ -69,7 +69,7 @@ No upload. No backend. No dependencies.
 
 Path:
 
-`workbench/logistics-level1/`
+`30-workbench/logistics-level1/`
 
 ## Lens families
 
@@ -79,8 +79,8 @@ These lenses help preserve source material without immediately rewriting or summ
 
 Possible lenses:
 
-- `workbench/chat-intake-level1`
-- `workbench/story-filter-level1`
+- `30-workbench/chat-intake-level1`
+- `30-workbench/story-filter-level1`
 - fractal-web-navigator-level1
 - source-coordinate-level1
 - trace-pad-level1
@@ -181,9 +181,9 @@ support human clarity without extracting private life into a platform.
 
 The first practical sequence is:
 
-1. `workbench/logistics-level1`
-2. `workbench/chat-intake-level1`
-3. `workbench/story-filter-level1`
+1. `30-workbench/logistics-level1`
+2. `30-workbench/chat-intake-level1`
+3. `30-workbench/story-filter-level1`
 4. claim-safety-level1
 5. ai-output-status-level1
 6. cursor-prompt-safety-level1
