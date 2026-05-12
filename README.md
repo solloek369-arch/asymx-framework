@@ -257,3 +257,18 @@ Current public route:
 - Sligro = claim-gate / human-gate / Level 1 only
 - Cross-case visibility = overlap as signal, not proof
 
+---
+
+## Repository rooms
+
+This repository is arranged as rooms, not as one flat pile.
+
+- `docs/` — public notes, mechanics, open cases and source-aware writing
+- `looking-glass/` — public demo surfaces and small visibility lenses
+- `workbench/` — experiments, prototypes and early Level 1 lenses
+- `tools/` — checks, gates and supporting scripts
+
+Core routing rule:
+
+> Everything receives a status before it becomes an action.
+
