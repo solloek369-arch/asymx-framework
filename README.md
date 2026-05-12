@@ -1,148 +1,240 @@
 # AsymX Framework
 
+**A living structural framework for asymmetry, visibility, intersection, and path formation.**
 
-A minimal structural framework for asymmetry, intersection, and path formation.
+```text
+ASYMX-BOOT v0.1  ⚫🟡🟢
 
----
+> FIELD CHECK...............OK
+> RAW / VAULT...............ONLINE (default route)
+> PUBLIC LEAF...............BOUND (GitHub only)
+> AI LENS...................ATTACHED (no truth mode)
+> ROUTER STATE..............HUMAN-GATED
 
-## Practical Architecture Layer
+SYMBOL MAP
+  ⚫ field / vault          passive, not-yet-visible
+  🔴 signal / appearance    something becomes visible
+  🔵 release / fade         allowed to disappear
+  🟡 intersection           tension, crossing, attention
+  🟢 path / leaf            stabilized, safe to show
 
-This framework is currently used in a working system with three core mechanisms:
+ROUTER DEFAULTS
+  ⚫ raw-first      🟢 public=NO      🟡 park=also-routing
+  🔴 build-on-friction-only          🔵 drop-without-loss
 
-### 1. The Golden Triangle (Antenna – Scissors – Glue)
-
-- Antenna: captures raw input (voice or text)
-- Scissors (LLM): performs zero-shot extraction (stateless)
-- Glue (code): deterministic state handling
-
-Key property:
-The main intake never crashes due to AI uncertainty.
-
----
-
-### 2. Silent Threshold Learning (threshold = 3)
-
-The system does not ask users for validation.
-
-Instead:
-- patterns are observed silently
-- after repeated confirmations, they become stable nodes
-
-Learning is:
-- asynchronous
-- non-intrusive
-- separate from the intake
+HINT
+  tree in  →  read leaves  →  core out
+```
 
 ---
 
-### 3. Presence-first Computing (BEING vs DOING)
+## Public leaf — boundary first
 
-The system distinguishes between:
+**GitHub is not the web.** **GitHub is a visibility layer**—not the vault, not the default destination, not the root of the whole field. This `README` is the **public landing leaf**—bounded, **claim-light**, and **human-gated**.
 
-- BEING: presence, observation, expression
-- DOING: actionable tasks
+What you read here is **orientation**, not a proof layer. **Public = NO by default.** **RAW / VAULT first.** **PARK** is also routing. **AI** is a **lens**, not a source of truth. **Chat traces** are **input** for review, not evidence.
 
-This prevents:
-- over-triggering
-- unnecessary actions
+In this repository, GitHub is public earth after fire: a small visibility layer, not the vault. Nothing publishes by default—only bounded leaves after a human + X gate. Source stays intact upstream; what appears here is meant to stay claim-light, correction-friendly, and hospitable to open questions: orientation neighbours can use or challenge, not a closed proof package.
 
-The system remains passive unless action is clearly required.
+**Cultural safety:** no mock ceremony, no psychedelic framing, no borrowed Indigenous **iconography** as ornament. Stay sober—no “sacred product,” no land or living world as **branding**.
 
 ---
 
-## Example (simplified)
+## Natural symbol layer
 
-Input:
-"Sheila asked something, I need wood from Praxis, grandma is fine"
+Symbols here are **functional orientation**, not decoration. Colors map to **how the system behaves** in the world: **root**, **leaf**, **path**, **web**, **breath**.
 
-Output:
-[
-  {"type": "task", "action": "get wood", "location": "Praxis"},
-  {"type": "task", "person": "Sheila", "unknown": true},
-  {"type": "status", "person": "grandma", "state": "ok"}
-]
+| Marker | Natural image | Function |
+|:---:|:---|:---|
+| ⚫ **FIELD / VAULT** | soil, root, night, seedbed | **Source stays intact** before anything is shown |
+| 🔴 **APPEARANCE** | sprout, wound, fruit, signal flower | **Something becomes visible** |
+| 🔵 **DISAPPEARANCE** | river, mist, rain, leaf fall | **Something may fade, move, release, or drop**—without shame |
+| 🟡 **X / INTERSECTION** | sun angle, pollen trail, crossing, attention point | **Relation, tension, crossing**—the web may hold ambiguity |
+| 🟢 **PATH / LEAF** | leaf, branch, forest path | **Bounded, repeatable pattern**—public-safe only when stabilized and gated |
 
-Uncertainty is stored, not resolved immediately.
+**Root / leaf / path:** this public repository is a **leaf**, not the **tree**. The **vault** is root/soil—**not** posted here. A **path** is what shows when a pattern **repeats** or **stabilizes**—not every impulse becomes a route.
+
+**Web:** many threads may **cross** (**🟡**) without forcing one closure.
+
+**Breath:** **appearance (🔴)** and **disappearance (🔵)** can alternate **without** an automatic **DO**—presence before intervention.
+
+---
+
+## Commodore × Eagle × Condor (light metaphor)
+
+A **Commodore-era** boot screen is a metaphor for **machine clarity**—structure, syntax, code, and **what appears on screen when power comes on**.
+
+**Eagle** stands for **overview** and **syntax**—how parts fit when seen from above.
+
+**Condor** stands for **long-pattern patience**—living relation and recurrence, not a one-shot output.
+
+Together they name **two tempos**: **machine legibility** and **slow pattern**. **Not** prophecy, **not** sacred authority, **not** the core framework—only a **sober** reminder that AsymX holds **both** structure and duration.
 
 ---
 
 ## What is AsymX?
 
-Created by Loek Verdonk.
+AsymX studies **asymmetry**, **visibility**, **intersection**, and **path formation**—how signals **appear**, **differ**, **cross**, **repeat**, **stabilize**, **disappear**, or form **paths** without forcing early closure.
 
-Four primitives:
+**Core question**
 
-- ⚫ field — completely passive, no boundary, no source
-- * appearance — distinction without origin
-- − disappearance — loss of distinction
-- X intersection — active crossing of + and − when intersectable
+> What becomes visible when difference is allowed to stay alive long enough to show its pattern?
 
-From this, paths form.
-Multiple paths can exist at the same time.
-Rivalry can stay without needing to be solved.
+**Tree in → read leaves → core out.**
 
 ---
 
-## Core idea
+## Structural colors (quick map)
 
-Not everything that differs can intersect.
-
-An X only exists when + and − are **intersectable**:
-
-- real asymmetry
-- non-trivial overlap
-- distinction remains under contact
-
-This allows tension without collapse.
+| Symbol | Layer | Meaning |
+|:---:|:---|:---|
+| ⚫ | Field / Vault | Passive space, raw source, not-yet-public |
+| 🔴 | Appearance / signal | Something becomes visible |
+| 🔵 | Disappearance / release | Fade, drop, resolve—allowed to go quiet |
+| 🟡 | X / Intersection | Crossing, tension, relation, attention |
+| 🟢 | Path / Leaf | Stabilized route; public-safe only when gated |
 
 ---
 
-## Simulation
+## Visual grammar
 
-You will see:
+AsymX uses a small **visual grammar** so the structure stays scannable. These are ordinary **visual primitives**—**circle / field**, **dot / signal**, **crossing**, **line / path**, **wave / release**—common across human **visual communication**. They are used here **only** as a lightweight navigation layer, **without** cultural ownership, origin claims, or ceremonial framing.
 
-⚫ field (black)
-appearance (red)
-− disappearance (blue)
-X intersection (yellow)
-path (green)
+```text
+⚫ FIELD      passive space / vault / not-yet-visible
+🔴 SIGNAL     something appears
+🟡 CROSSING   relation / tension / attention
+🟢 PATH       repeated route / public-safe leaf
+🔵 RELEASE    fade / drop / allowed to disappear
+```
 
-The system evolves continuously.
+---
 
+## Core primitives
 
-Status
-This is an early structural simulation.
-Not everything is solved yet.
-Not everything is stable yet.
-That is intentional.
-Why I share this
-This is not about being right.
-This is about not forcing structure too early.
-Collaboration
-If something in here resonates with you,
-feel free to build on it.
-This does not belong to me.
+### ⚫ Field
 
+Passive space before distinction.
 
-Run:
+### 🔴 Appearance
+
+Something becomes visible.
+
+### 🔵 Disappearance
+
+Something fades, drops, or resolves.
+
+### 🟡 X / Intersection
+
+Two or more differences meet **without** immediate collapse.
+
+### 🟢 Path / Leaf
+
+A stabilized route may surface as a **bounded leaf**—only when gates allow.
+
+---
+
+## Practical architecture — Golden Triangle
+
+### 1. Antenna
+
+Captures raw input.
+
+### 2. Scissors
+
+LLM / extraction lens—stateless where possible. **AI is a lens, not a source of truth.**
+
+### 3. Glue
+
+Deterministic code and human-gated logic—status, routing, structure. Intake is aimed to **degrade gracefully** when context is thin—**not** a promise of faultless operation.
+
+---
+
+## Presence-first computing
+
+| | |
+|:---|:---|
+| **BEING** | Presence, observation, expression |
+| **DOING** | Action, task, decision, intervention |
+
+Not every signal becomes an action. Some are **seen**, **held**, **parked**, or **left alone**.
+
+---
+
+## Silent Threshold Learning
+
+Patterns may stabilize when similar signals **repeat quietly**. No need to validate every micro-step. Learning stays **low-intrusion** and **separate** from immediate capture—**claim-light**, not a guarantee of optimality.
+
+---
+
+## Router defaults
+
+| Default | Meaning |
+|:---|:---|
+| ⚫ RAW / VAULT first | Source stays intact before routing |
+| 🟢 Public = NO | Nothing goes public by default |
+| 🟡 PARK = routing | Latency and non-resolution are allowed |
+| 🔴 Build on friction | Ideas become builds only when friction repeats |
+| 🔵 Drop without loss | Not everything must become structure |
+| Human gate | Public meaning stays human-gated |
+| GitHub | Visibility layer only—not the whole system |
+
+---
+
+## Source Vault · Leaf layer · tools
+
+### ⚫ Source Vault
+
+Raw source stays **intact** and **private/local** unless explicitly, human-gated outward.
+
+### 🟢 Leaf layer
+
+Only **small, bounded, public-safe** leaves—never the full vault.
+
+### 🟡 Universal Chat Recovery
+
+**Local-first** trace review—**input**, not verdict. Not a public dump; not the whole system.
+
+### ⚫ Watch Tree
+
+**Private / vault-side** capsule for presence-oriented traces—**not** public data; not a diagnostic claim; **no** on-site AI required for quiet capture modes.
+
+### 🟢 Level 1 lenses
+
+Small **local** visibility tools.
+
+```text
+local-only · no upload · no backend · no tracking · source stays intact · analysis is metadata
+```
+
+---
+
+## Simulation (local)
+
+Optional visual run—rough edges can stay **intentional**.
 
 ```bash
 python3 -m pip install -r requirements.txt
 python3 asymx_sim.py
 ```
 
-## AsymX Level 1 Open Field
+---
 
-AsymX Level 1 tools are small, local-only visibility lenses.
+## How to read this repository
 
-The first live Level 1 lens is:
+1. **Start at the top**—boundary and symbols first, detail second.  
+2. Treat this repo as **one public leaf**: documentation and code snippets shared **on purpose**, not the full AsymX **field**.  
+3. **Root stays hidden**—vault and private process are **not** exported here by default.  
+4. Use tables for **navigation**; use narrative sections for **intent**.  
+5. Nothing here is **warranty**, **proof of completeness**, or **instruction for sensitive domains**—when in doubt, **pause** and **gate** with human meaning.
 
-- `logistics-level1/` — Static Shadow Run Lens for repeated warehouse deviations
+---
 
-The broader Level 1 field map is here:
+## License
 
-- `docs/level_1_open_field_map.md`
+This project uses the **MIT License**. See the [`LICENSE`](LICENSE) file in the repository root.
 
-Level 1 rule:
+---
 
-local-only · no upload · no backend · no tracking · source stays intact · analysis is metadata
+Created by looking.  
+A field 2 look.
