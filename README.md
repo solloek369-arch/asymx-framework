@@ -238,3 +238,22 @@ This project uses the **MIT License**. See the [`LICENSE`](LICENSE) file in the 
 
 Created by looking.  
 A field 2 look.
+
+---
+
+## Open case studies
+
+A small public navigation layer for claim-light case studies.
+
+Open cases are **kijkvensters**, not dossiers.
+
+Start here:
+
+- [Open Case Studies](docs/open_case_studies/README.md)
+
+Current public route:
+
+- Bol.com = public light research / training surface
+- Sligro = claim-gate / human-gate / Level 1 only
+- Cross-case visibility = overlap as signal, not proof
+
