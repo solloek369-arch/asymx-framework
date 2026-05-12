@@ -111,7 +111,7 @@ AsymX Level 1 is alleen een tijdelijke zichtbaarheidshulp naast bestaande system
 
 Deze case nodigt uit tot een klein, veilig gesprek:
 
-Kunnen lokale frictiesignalen rond uitvoering, artikeldata en liegebruik helpen om masterdata- en procesharmonisatie gerichter te ondersteunen tijdens een grote ERP-transitie?
+Kunnen lokale frictiesignalen rond uitvoering, artikeldata en lijst-/locatiegebruik helpen om masterdata- en procesharmonisatie gerichter te ondersteunen tijdens een grote ERP-transitie?
 
 ## Mailwaarde
 
@@ -129,6 +129,6 @@ Kan een lokale zichtbaarheidlens helpen om de laatste uitvoeringsdetails veilig 
 
 MAILWAARDE / IN ONDERZOEK
 
-This case is strong enough as a mail-building block.
+This case can serve as a draft mail-building block.
 
 It should only become LENS RIJP after a concrete, claim-safe local test shape has been defined.
