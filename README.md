@@ -5,6 +5,33 @@ A public visibility layer for signals, filters and routes.
 GitHub is not the vault.  
 Public material appears here only after boundary, trace and human gate.
 
+## What this is
+
+**AsymX** is a **mechanics map**: a structured way to work with **asymmetry** — how signals **appear**, **cross**, **stabilize**, **compost**, or **release** without forcing every difference into an early, heavy answer.
+
+This repository is a **public visibility layer**: bounded docs, small experiments, and **disk-routed** folders that help you **navigate** the ideas. It is **not** the whole field, **not** the vault, and **not** a closed proof package.
+
+## Intent
+
+- **Protect what is raw:** source stays **intact** and **primary**; anything public is **optional**, **late**, and **human‑gated**.
+- **Keep movement honest:** when something becomes visible, the chain should remain **traceable** (see [**Trace Gate**](gates-friction/TRACE_GATE.md)).
+- **Reduce careless pressure:** public touch should stay **soft** and **friction‑aware** (see [**Soft contact**](gates-friction/SOFT_CONTACT_RULE.md) and the [**public friction boundary**](gates-friction/PUBLIC_FRICTION_BOUNDARY.md)).
+- **Stay corrigible:** lenses, case studies, and metaphors are **ways to look** — useful, discardable, **correctable**; resonance is **not** proof.
+
+## Mechanics on this leaf
+
+| Mechanic | What it does (here) | Where |
+| --- | --- | --- |
+| **Trace gate** | **No trace, no public.** Compost ≠ deletion. GitHub = visible **remainder after gate**. | [`gates-friction/TRACE_GATE.md`](gates-friction/TRACE_GATE.md) |
+| **Soft contact** | Caps how “hard” a public interaction may press; avoids accidental harm. | [`gates-friction/SOFT_CONTACT_RULE.md`](gates-friction/SOFT_CONTACT_RULE.md) |
+| **Public friction boundary** | Keeps outward friction bounded; visibility carries responsibility. | [`gates-friction/PUBLIC_FRICTION_BOUNDARY.md`](gates-friction/PUBLIC_FRICTION_BOUNDARY.md) |
+| **Open mechanics map** | Patterns **beside** each other — **map, not belief system**; every lens **optional**. | [`gates-friction/open_mechanics_map.md`](gates-friction/open_mechanics_map.md) |
+| **Lenses & Level‑1 docs** | Bounded language: case studies, mechanics notes, safety — **orientation, not proof**. | [`🟡 A way 2 Look`](🟡%20A%20way%202%20Look/) · [`docs/mechanics`](🟡%20A%20way%202%20Look/docs/mechanics/) · [`docs/safety`](🟡%20A%20way%202%20Look/docs/safety/) |
+| **Playfield / Release** | Small tries in the open; explicit **checks** and **resistance** to premature weight. | [`🔵 Playfield`](🔵%20Playfield/) · [`🔴 Release`](🔴%20Release/) |
+| **Spore engine (optional)** | Scan helpers for the visible tree — a **flag means “look again”**, not an accusation. | [`gates-friction/spore-engine`](gates-friction/spore-engine/README.md) |
+
+**AI note:** models may **compress or restyle** traces — treat them as a **lens**, not a **source of truth**. Chat exports are **input for review**, not evidence.
+
 ---
 
 ## 🔘 FIELD → 💠 ALCHEMY → 🧭 NAVIGATOR
@@ -69,9 +96,9 @@ NAVIGATOR opens.
 
 The homepage is **not** a folder dump: three functional entrances, with emoji folders as **rooms** behind them.
 
-- **GitHub is not the field** — only a **visibility layer** after trace, consent, and a **human + X gate**.
+- **GitHub is not the field** — only a **visibility layer** after trace, consent, and a **human + X gate** (see [**Trace Gate**](gates-friction/TRACE_GATE.md)).
 - **Public = NO by default.** **RAW / VAULT first.** Source stays **intact** outside this leaf.
-- **AI is a lens**, not a source of truth. Chat traces are **input for review**, not evidence.
+- **AI / chat:** see the **AI note** under [Mechanics on this leaf](#mechanics-on-this-leaf) above.
 - **Symbols** here are **functional orientation** — not decoration, identity, or proof.
 
 **Cultural safety:** no mock ceremony, no psychedelic framing, no borrowed Indigenous **iconography** as ornament. No “sacred product,” no land or living world as **branding**.
@@ -82,7 +109,7 @@ What you read here is **orientation**, **claim-light**, and **correction-friendl
 
 ## How to read this repository
 
-1. Read **boundary** and **three entrances** before drifting into subfolders.
+1. Read **What this is**, **Intent**, and **Mechanics on this leaf**, then the **three entrances** and room tables.
 2. Treat this repo as **one public leaf** — not the full vault.
 3. Prefer **links and tables** for navigation; treat long pages as **inspectable**, not **mandatory**.
 4. Nothing here is **warranty**, **proof**, or **instruction for high-risk domains** without your own gate — when in doubt, **pause**.
