@@ -50,8 +50,8 @@ Level 1 betekent:
 ## Werkregel
 
 Nieuwe lens pas toevoegen als:
-1. hij in `🟡 A way 2 Look/docs/engine_register.md` staat;
-2. hij past in `🟡 A way 2 Look/docs/pressure_queue.md` of `🟡 A way 2 Look/docs/open_eindjes_register.md`;
+1. hij in `🟡 A way 2 Look/docs/mechanics/engine_register.md` staat;
+2. hij past in `🟤 Ground/open-ends/pressure_queue.md` of `🟤 Ground/open-ends/open_eindjes_register.md`;
 3. hij klein genoeg is voor Level 1;
 4. hij geen bron overschrijft;
 5. hij nu druk verlaagt.
