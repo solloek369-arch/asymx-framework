@@ -2,6 +2,15 @@
 
 This folder contains access languages for AsymX readability.
 
+## Internal symbol & alchemy grammar
+
+**Public gate:** not public by default — internal routing language for maintainers; not the homepage.
+
+- [`symbol_grammar.md`](symbol_grammar.md) — sensory router, status colours, mycelium / pointers.
+- [`alchemy_symbol_mechanics.md`](alchemy_symbol_mechanics.md) — transformation grammar (historical pattern language), **not** proof, doctrine, or borrowed authority.
+
+---
+
 Access languages are not source layers.
 
 The Dual Source structure remains separate:
