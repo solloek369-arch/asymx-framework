@@ -14,6 +14,6 @@ Moved material may include:
 - unfinished branches
 - symbolic or origin material not ready for public entry
 
-These files are not deletedhey are held.
+These files are not deleted. They are held.
 
 Before any part becomes public again, extract only the small mechanic or bounded leaf that survives gate review.

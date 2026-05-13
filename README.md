@@ -70,7 +70,7 @@ ALCHEMY transforms.
 | Room | Role |
 | --- | --- |
 | [`gates-friction`](gates-friction/README.md) | Trace gate, soft contact, public friction boundary, mechanics map |
-| [`🟡 A way 2 Look`](🟡%20A%20way%202%20Look/) | Lenses, bounded docs, **orientation not proof** — incl. `docs/open_case_studies`, `docs/mechanics`, `docs/safety` |
+| [`🟡 A way 2 Look`](🟡%20A%20way%202%20Look/) | Lenses, bounded docs, mechanics, safety and language — **orientation, not proof**. Deep case traces now live under Ground. |
 | [`🔵 Playfield`](🔵%20Playfield/) | Experiments and prototypes — try small, stay bounded |
 | [`🔴 Release`](🔴%20Release/) | Boundaries, checks, resistance to premature weight |
 
@@ -88,7 +88,7 @@ NAVIGATOR opens.
 | [`🟠 Flow`](🟠%20Flow/) | Movement and tempo |
 | [`🩷 Flower`](🩷%20Flower/) | Signal surfacing — appearance without stalking closure |
 
-**Quick doc entries:** [Open case studies](🟡%20A%20way%202%20Look/docs/open_case_studies/README.md) · [Lens registry](🟡%20A%20way%202%20Look/docs/lens_registry.md)
+**Quick doc entries:** [Lens registry](🟡%20A%20way%202%20Look/docs/lenses/lens_registry.md) · [Mechanics](🟡%20A%20way%202%20Look/docs/mechanics/) · [Safety](🟡%20A%20way%202%20Look/docs/safety/) · [Deep trace cases](🟤%20Ground/deep-traces/a-way-2-look/open_case_studies/README.md)
 
 ---
 
