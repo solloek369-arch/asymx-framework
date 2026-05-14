@@ -316,3 +316,11 @@ This project uses the **MIT License**. See the [`LICENSE`](LICENSE) file in the 
 
 Created by looking.  
 A field 2 look.
+
+---
+
+## Foundation files
+
+README.md ⚪ — public front door / visible reading layer  
+.gitignore ⚫ — protection boundary / what stays out of public view  
+LICENSE 🟢 — permission layer / shared use boundary
