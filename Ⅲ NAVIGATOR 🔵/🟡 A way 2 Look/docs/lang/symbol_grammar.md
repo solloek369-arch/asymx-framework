@@ -37,8 +37,8 @@ In AsymX, symbolic language is used to make movement lighter, clearer and more t
 | Observed natural mechanic | AsymX mechanic (name) | Optional compressed mark | Typical route (orientatie) |
 | --- | --- | --- | --- |
 | Light cross-transfer / pollination | Pointer + invitation + handoff without dragging source mass | — | [`07_the_pointer_and_routing_mechanic`](../../mechanics/07_the_pointer_and_routing_mechanic.md), [`06_public_invitation_priority_protocol`](../../mechanics/06_public_invitation_priority_protocol.md) |
-| Buffer / slow / hold pressure | Trace gate + soft contact + public friction boundary | — | [`gates-friction/TRACE_GATE`](../../../gates-friction/TRACE_GATE.md), [`SOFT_CONTACT_RULE`](../../../gates-friction/SOFT_CONTACT_RULE.md) |
-| Web / tension / trace visibility | Scan → flag → “look again”; trace not accusation | — | [`gates-friction/spore-engine`](../../../gates-friction/spore-engine/README.md), TRACE_GATE |
+| Buffer / slow / hold pressure | Trace gate + soft contact + public friction boundary | — | [`gates-friction/TRACE_GATE`](../../../../Ⅱ%20ALCHEMY%20🟠/gates-friction/TRACE_GATE.md), [`SOFT_CONTACT_RULE`](../../../../Ⅱ%20ALCHEMY%20🟠/gates-friction/SOFT_CONTACT_RULE.md) |
+| Web / tension / trace visibility | Scan → flag → “look again”; trace not accusation | — | [`gates-friction/spore-engine`](../../../../Ⅱ%20ALCHEMY%20🟠/gates-friction/spore-engine/README.md), TRACE_GATE |
 
 *Optional marks (🐝 🦫 🕷️ …) belong only in internal notes once the row above is agreed; they are not proof and not required for routing.*
 

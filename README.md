@@ -61,22 +61,22 @@ This repository is a **public visibility layer**: bounded docs, small experiment
 ## Intent
 
 - **Protect what is raw:** source stays **intact** and **primary**; anything public is **optional**, **late**, and **human‑gated**.
-- **Keep movement honest:** when something becomes visible, the chain should remain **traceable** (see [**Trace Gate**](gates-friction/TRACE_GATE.md)).
-- **Reduce careless pressure:** public touch should stay **soft** and **friction‑aware** (see [**Soft contact**](gates-friction/SOFT_CONTACT_RULE.md) and the [**public friction boundary**](gates-friction/PUBLIC_FRICTION_BOUNDARY.md)).
+- **Keep movement honest:** when something becomes visible, the chain should remain **traceable** (see [**Trace Gate**](Ⅱ%20ALCHEMY%20🟠/gates-friction/TRACE_GATE.md)).
+- **Reduce careless pressure:** public touch should stay **soft** and **friction‑aware** (see [**Soft contact**](Ⅱ%20ALCHEMY%20🟠/gates-friction/SOFT_CONTACT_RULE.md) and the [**public friction boundary**](Ⅱ%20ALCHEMY%20🟠/gates-friction/PUBLIC_FRICTION_BOUNDARY.md)).
 - **Stay corrigible:** lenses, case studies, and metaphors are **ways to look** — useful, discardable, **correctable**; resonance is **not** proof.
 
 ## Mechanics on this leaf
 
 | Mechanic | What it does (here) | Where |
 | --- | --- | --- |
-| **Trace gate** | **No trace, no public.** Compost ≠ deletion. GitHub = visible **remainder after gate**. | [`gates-friction/TRACE_GATE.md`](gates-friction/TRACE_GATE.md) |
-| **Soft contact** | Caps how “hard” a public interaction may press; avoids accidental harm. | [`gates-friction/SOFT_CONTACT_RULE.md`](gates-friction/SOFT_CONTACT_RULE.md) |
-| **Public friction boundary** | Keeps outward friction bounded; visibility carries responsibility. | [`gates-friction/PUBLIC_FRICTION_BOUNDARY.md`](gates-friction/PUBLIC_FRICTION_BOUNDARY.md) |
-| **Open mechanics map** | Patterns **beside** each other — **map, not belief system**; every lens **optional**. | [`gates-friction/open_mechanics_map.md`](gates-friction/open_mechanics_map.md) |
-| **Role prism** | **Situation first:** a **role** is a **viewing position** on the same situation — not a category of people; compare what becomes visible before any public move. | [`🟡 A way 2 Look`](🟡%20A%20way%202%20Look/) · [`docs/mechanics`](🟡%20A%20way%202%20Look/docs/mechanics/) |
-| **Lenses & Level‑1 docs** | Bounded language: case studies, mechanics notes, safety — **orientation, not proof**. | [`🟡 A way 2 Look`](🟡%20A%20way%202%20Look/) · [`docs/mechanics`](🟡%20A%20way%202%20Look/docs/mechanics/) · [`docs/safety`](🟡%20A%20way%202%20Look/docs/safety/) |
-| **Playfield / Release** | Small tries in the open; explicit **checks** and **resistance** to premature weight. | [`🔵 Playfield`](🔵%20Playfield/) · [`🔴 Release`](🔴%20Release/) |
-| **Spore engine (optional)** | Scan helpers for the visible tree — a **flag means “look again”**, not an accusation. | [`gates-friction/spore-engine`](gates-friction/spore-engine/README.md) |
+| **Trace gate** | **No trace, no public.** Compost ≠ deletion. GitHub = visible **remainder after gate**. | [`Ⅱ%20ALCHEMY%20🟠/gates-friction/TRACE_GATE.md`](Ⅱ%20ALCHEMY%20🟠/gates-friction/TRACE_GATE.md) |
+| **Soft contact** | Caps how “hard” a public interaction may press; avoids accidental harm. | [`Ⅱ%20ALCHEMY%20🟠/gates-friction/SOFT_CONTACT_RULE.md`](Ⅱ%20ALCHEMY%20🟠/gates-friction/SOFT_CONTACT_RULE.md) |
+| **Public friction boundary** | Keeps outward friction bounded; visibility carries responsibility. | [`Ⅱ%20ALCHEMY%20🟠/gates-friction/PUBLIC_FRICTION_BOUNDARY.md`](Ⅱ%20ALCHEMY%20🟠/gates-friction/PUBLIC_FRICTION_BOUNDARY.md) |
+| **Open mechanics map** | Patterns **beside** each other — **map, not belief system**; every lens **optional**. | [`Ⅱ%20ALCHEMY%20🟠/gates-friction/open_mechanics_map.md`](Ⅱ%20ALCHEMY%20🟠/gates-friction/open_mechanics_map.md) |
+| **Role prism** | **Situation first:** a **role** is a **viewing position** on the same situation — not a category of people; compare what becomes visible before any public move. | [`🟡 A way 2 Look`](Ⅲ%20NAVIGATOR%20🔵/🟡%20A%20way%202%20Look/) · [`docs/mechanics`](Ⅲ%20NAVIGATOR%20🔵/🟡%20A%20way%202%20Look/docs/mechanics/) |
+| **Lenses & Level‑1 docs** | Bounded language: case studies, mechanics notes, safety — **orientation, not proof**. | [`🟡 A way 2 Look`](Ⅲ%20NAVIGATOR%20🔵/🟡%20A%20way%202%20Look/) · [`docs/mechanics`](Ⅲ%20NAVIGATOR%20🔵/🟡%20A%20way%202%20Look/docs/mechanics/) · [`docs/safety`](Ⅲ%20NAVIGATOR%20🔵/🟡%20A%20way%202%20Look/docs/safety/) |
+| **Playfield / Release** | Small tries in the open; explicit **checks** and **resistance** to premature weight. | [`🔵 Playfield`](Ⅲ%20NAVIGATOR%20🔵/🔵%20Playfield/) · [`🔴 Release`](Ⅱ%20ALCHEMY%20🟠/🔴%20Release/) |
+| **Spore engine (optional)** | Scan helpers for the visible tree — a **flag means “look again”**, not an accusation. | [`Ⅱ%20ALCHEMY%20🟠/gates-friction/spore-engine`](Ⅱ%20ALCHEMY%20🟠/gates-friction/spore-engine/README.md) |
 
 **AI note:** models may **compress or restyle** traces — treat them as a **lens**, not a **source of truth**. Chat exports are **input for review**, not evidence.
 
@@ -99,12 +99,12 @@ FIELD holds.
 
 | Room | Role |
 | --- | --- |
-| [`⚫ Source`](⚫%20Source/) | Raw origin — what stays intact |
-| [`🟤 Ground`](🟤%20Ground/) | Substrate, carrying, early roots |
-| [`🟣 Mystery`](🟣%20Mystery/) | Depth without forced closure |
-| [`↺ terug naar Source`](%E2%86%BA%20terug%20naar%20Source/) | Return loop toward origin |
+| [`⚫ Source`](Ⅰ%20FIELD%20⚫/⚫%20Source/) | Raw origin — what stays intact |
+| [`🟤 Ground`](Ⅰ%20FIELD%20⚫/🟤%20Ground/) | Substrate, carrying, early roots |
+| [`🟣 Mystery`](Ⅰ%20FIELD%20⚫/🟣%20Mystery/) | Depth without forced closure |
+| [`↺ terug naar Source`](Ⅰ%20FIELD%20⚫/%E2%86%BA%20terug%20naar%20Source/) | Return loop toward origin |
 
-*Early seed trace (archived prototype absorbed as mechanic, not current canon):* [`🟤 Ground/early-roots/field-system-core.md`](🟤%20Ground/early-roots/field-system-core.md)
+*Early seed trace (archived prototype absorbed as mechanic, not current canon):* [`🟤 Ground/early-roots/field-system-core.md`](Ⅰ%20FIELD%20⚫/🟤%20Ground/early-roots/field-system-core.md)
 
 ---
 
@@ -154,12 +154,10 @@ ALCHEMY transforms.
 
 | Room | Role |
 | --- | --- |
-| [`gates-friction`](gates-friction/README.md) | Trace gate, soft contact, public friction boundary, mechanics map |
-| [`🟡 A way 2 Look`](🟡%20A%20way%202%20Look/) | Lenses, bounded docs, mechanics, safety and language — **orientation, not proof**. Deep case traces live under Ground. |
-| [`🔵 Playfield`](🔵%20Playfield/) | Experiments and prototypes — try small, stay bounded |
-| [`🔴 Release`](🔴%20Release/) | Boundaries, checks, resistance to premature weight |
+| [`gates-friction`](Ⅱ%20ALCHEMY%20🟠/gates-friction/README.md) | Trace gate, soft contact, public friction boundary, mechanics map |
+| [`🔴 Release`](Ⅱ%20ALCHEMY%20🟠/🔴%20Release/) | Boundaries, checks, resistance to premature weight |
 
-Symbol / colour routing language (internal reference, same gate rules): [`docs/lang/symbol_grammar.md`](🟡%20A%20way%202%20Look/docs/lang/symbol_grammar.md) · [`docs/lang/`](🟡%20A%20way%202%20Look/docs/lang/README.md)
+Symbol / colour routing language (internal reference, same gate rules): [`docs/lang/symbol_grammar.md`](Ⅲ%20NAVIGATOR%20🔵/🟡%20A%20way%202%20Look/docs/lang/symbol_grammar.md) · [`docs/lang/`](Ⅲ%20NAVIGATOR%20🔵/🟡%20A%20way%202%20Look/docs/lang/README.md)
 
 ---
 
@@ -182,12 +180,14 @@ NAVIGATOR opens.
 
 | Room | Role |
 | --- | --- |
-| [`🟢 Natural Living Routes`](🟢%20Natural%20Living%20Routes/) | Paths, flows, connections — stabilized patterns |
-| [`⚪ The Web`](⚪%20The%20Web/) | Traces, archive, what may stay local or compost |
-| [`🟠 Flow`](🟠%20Flow/) | Movement and tempo |
-| [`🩷 Flower`](🩷%20Flower/) | Signal surfacing — appearance without stalking closure |
+| [`🟡 A way 2 Look`](Ⅲ%20NAVIGATOR%20🔵/🟡%20A%20way%202%20Look/) | Lenses, bounded docs, mechanics, safety and language — **orientation, not proof**. Deep case traces live under Ground. |
+| [`🔵 Playfield`](Ⅲ%20NAVIGATOR%20🔵/🔵%20Playfield/) | Experiments and prototypes — try small, stay bounded |
+| [`🟢 Natural Living Routes`](Ⅲ%20NAVIGATOR%20🔵/🟢%20Natural%20Living%20Routes/) | Paths, flows, connections — stabilized patterns |
+| [`⚪ The Web`](Ⅲ%20NAVIGATOR%20🔵/⚪%20The%20Web/) | Traces, archive, what may stay local or compost |
+| [`🟠 Flow`](Ⅲ%20NAVIGATOR%20🔵/🟠%20Flow/) | Movement and tempo |
+| [`🩷 Flower`](Ⅲ%20NAVIGATOR%20🔵/🩷%20Flower/) | Signal surfacing — appearance without stalking closure |
 
-**Quick doc entries:** [Lens registry](🟡%20A%20way%202%20Look/docs/lenses/lens_registry.md) · [Mechanics](🟡%20A%20way%202%20Look/docs/mechanics/) · [Safety](🟡%20A%20way%202%20Look/docs/safety/) · [Deep trace cases](🟤%20Ground/deep-traces/a-way-2-look/open_case_studies/README.md)
+**Quick doc entries:** [Lens registry](Ⅲ%20NAVIGATOR%20🔵/🟡%20A%20way%202%20Look/docs/lenses/lens_registry.md) · [Mechanics](Ⅲ%20NAVIGATOR%20🔵/🟡%20A%20way%202%20Look/docs/mechanics/) · [Safety](Ⅲ%20NAVIGATOR%20🔵/🟡%20A%20way%202%20Look/docs/safety/) · [Deep trace cases](Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/open_case_studies/README.md)
 
 ---
 
@@ -221,7 +221,7 @@ Beiden zijn routingtekens, geen versiering en geen bewijs.
 
 Example:
 
-- [`🟡 A way 2 Look`](🟡%20A%20way%202%20Look/) — **room** / disk route / lens space.  
+- [`🟡 A way 2 Look`](Ⅲ%20NAVIGATOR%20🔵/🟡%20A%20way%202%20Look/) — **room** / disk route / lens space.  
 - 🐝 in context — **mechanic** / pollination / soft handoff between fields (only when that mechanic is already visible in text).
 
 One glyph can mark a folder **or** compress a mechanic — the **route** must stay obvious.
@@ -272,9 +272,9 @@ If any answer is **no** → **park · compost · vault — not public.**
 
 GitHub should feel like a **living front door**, a **fan of visible leaves**, a **garden path** — **not** the root ball, **not** a folder dump.
 
-The three portals (**FIELD / ALCHEMY / NAVIGATOR**) are **view-gates**. Current **folder names** and emoji rooms may differ; this README is the **overlay map** that teaches how to read them. **No bulk move is required** to read clearly.
+The three portals (**FIELD / ALCHEMY / NAVIGATOR**) also appear as **top-level rooms** on disk: **Ⅰ FIELD**, **Ⅱ ALCHEMY**, **Ⅲ NAVIGATOR** — each holding the emoji-folder “chambers” beneath. This README remains the **overlay map** that teaches how to read them.
 
-- **GitHub is not the field** — only a **visibility layer** after trace, consent, and a **human + X gate** (see [**Trace Gate**](gates-friction/TRACE_GATE.md)).
+- **GitHub is not the field** — only a **visibility layer** after trace, consent, and a **human + X gate** (see [**Trace Gate**](Ⅱ%20ALCHEMY%20🟠/gates-friction/TRACE_GATE.md)).
 - **Public = NO by default.** **RAW / VAULT first.** Source stays **intact** outside this leaf.
 - **AI / chat:** see the **AI note** under [Mechanics on this leaf](#mechanics-on-this-leaf).
 
@@ -295,16 +295,16 @@ What you read here is **orientation**, **claim-light**, and **correction-friendl
 
 ## Claim-safety note
 
-- **No trace, no public** — see [`gates-friction/TRACE_GATE.md`](gates-friction/TRACE_GATE.md).
+- **No trace, no public** — see [`Ⅱ%20ALCHEMY%20🟠/gates-friction/TRACE_GATE.md`](Ⅱ%20ALCHEMY%20🟠/gates-friction/TRACE_GATE.md).
 - **Resonance is not proof.** Repeated patterns are **visible**, not automatically **true** or **actionable**.
-- **Mechanics map ≠ belief system** — see [`gates-friction/open_mechanics_map.md`](gates-friction/open_mechanics_map.md).
+- **Mechanics map ≠ belief system** — see [`Ⅱ%20ALCHEMY%20🟠/gates-friction/open_mechanics_map.md`](Ⅱ%20ALCHEMY%20🟠/gates-friction/open_mechanics_map.md).
 - Correction is welcome; pressure is not the point.
 
 ---
 
 ## Current status
 
-Public structure is organized around **FIELD / ALCHEMY / NAVIGATOR**. Supporting folders use emoji names for **disk routing**; they **follow** the three portals — they do not replace them. A broader **compressed-mechanics registry** may land under **`docs/`** later, small and gated.
+Public structure uses **Ⅰ FIELD**, **Ⅱ ALCHEMY**, and **Ⅲ NAVIGATOR** as top-level group rooms; emoji-named folders live inside those. A broader **compressed-mechanics registry** may land under **`docs/`** later, small and gated.
 
 ---
 

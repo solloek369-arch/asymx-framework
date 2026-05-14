@@ -281,4 +281,4 @@ Use this when the mechanic needs to be explained lightly:
 - [The Emerald Tablet of Hermes Trismegistus](https://www.cabinet.ox.ac.uk/emerald-tablet-hermes-trismegistus) — Oxford Cabinet, textual tradition / dating context.
 - [Alchemy, the Four Elements, and the Tria Prima](https://www.cabinet.ox.ac.uk/alchemy-four-elements-and-tria-prima) — Oxford Cabinet, elements / Tria Prima overview.
 
-Edits pass **human + X gate**. If this file moves toward a **public** leaf, re-check against [`TRACE_GATE.md`](../../../gates-friction/TRACE_GATE.md) and repository **cultural-safety** boundaries.
+Edits pass **human + X gate**. If this file moves toward a **public** leaf, re-check against [`TRACE_GATE.md`](../../../../Ⅱ%20ALCHEMY%20🟠/gates-friction/TRACE_GATE.md) and repository **cultural-safety** boundaries.

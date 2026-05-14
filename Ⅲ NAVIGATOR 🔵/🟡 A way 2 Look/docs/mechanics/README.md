@@ -2,9 +2,9 @@
 
 ## Purpose
 
-This folder holds **public mechanism notes**: reusable patterns, gates, guards, translation layers, and pointers to execution-trace style documents under `docs/` **and** preserved deep-trace mirrors under [`🟤 Ground/deep-traces/a-way-2-look/`](../../../🟤%20Ground/deep-traces/a-way-2-look/README.md). Mechanisms describe *how work is framed and routed* in the AsymX layer—not product guarantees, not closed proofs, and not a substitute for your own judgment.
+This folder holds **public mechanism notes**: reusable patterns, gates, guards, translation layers, and pointers to execution-trace style documents under `docs/` **and** preserved deep-trace mirrors under [`🟤 Ground/deep-traces/a-way-2-look/`](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/README.md). Mechanisms describe *how work is framed and routed* in the AsymX layer—not product guarantees, not closed proofs, and not a substitute for your own judgment.
 
-Together with [discovery](../../../🟤%20Ground/deep-traces/a-way-2-look/discovery/mechanism_keywords.md), [safety](../safety/README.md), [afterwords](../../../🟤%20Ground/deep-traces/a-way-2-look/afterwords/README.md), [x_dance](../../../🟤%20Ground/deep-traces/a-way-2-look/x_dance/synced_fresh_mirror_gate.md), and [prompts](../../../🟤%20Ground/deep-traces/a-way-2-look/prompts/README.md), these notes form a **navigable map** of the mechanism field.
+Together with [discovery](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/discovery/mechanism_keywords.md), [safety](../safety/README.md), [afterwords](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/afterwords/README.md), [x_dance](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/x_dance/synced_fresh_mirror_gate.md), and [prompts](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/prompts/README.md), these notes form a **navigable map** of the mechanism field.
 
 ---
 
@@ -22,10 +22,10 @@ Readers rarely land on one “correct” first page. These paths stay inside **p
 |----------------|------------|
 | …with a **mechanism** question | The numbered notes under [Existing Public Links](#existing-public-links) and the [cluster map](#core-mechanism-clusters) below |
 | …with a **safety / external-impact** question | [Safety overview](../safety/README.md), then [external impact guards](../safety/external_impact_guards/README.md) |
-| …with a **prompt / opening signal** question | [Prompts overview](../../../🟤%20Ground/deep-traces/a-way-2-look/prompts/README.md), then [prompt opening translation](../../../🟤%20Ground/deep-traces/a-way-2-look/prompts/prompt_opening_translation_protocol.md) |
-| …looking for an **afterword / landing trace** | [Afterwords](../../../🟤%20Ground/deep-traces/a-way-2-look/afterwords/README.md) |
-| …following an **execution / correction trace** | [x_dance](../../../🟤%20Ground/deep-traces/a-way-2-look/x_dance/synced_fresh_mirror_gate.md) and related entries in [Existing Public Links](#existing-public-links); prompt-side execution notes: [nine-branch prompt tracks](../../../🟤%20Ground/deep-traces/a-way-2-look/prompts/x_execution/2026-05-08_nine_branch_prompt_tracks.md) |
-| …browsing by **keywords / search-shaped traces** | [Mechanism keywords](../../../🟤%20Ground/deep-traces/a-way-2-look/discovery/mechanism_keywords.md) |
+| …with a **prompt / opening signal** question | [Prompts overview](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/prompts/README.md), then [prompt opening translation](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/prompts/prompt_opening_translation_protocol.md) |
+| …looking for an **afterword / landing trace** | [Afterwords](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/afterwords/README.md) |
+| …following an **execution / correction trace** | [x_dance](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/x_dance/synced_fresh_mirror_gate.md) and related entries in [Existing Public Links](#existing-public-links); prompt-side execution notes: [nine-branch prompt tracks](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/prompts/x_execution/2026-05-08_nine_branch_prompt_tracks.md) |
+| …browsing by **keywords / search-shaped traces** | [Mechanism keywords](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/discovery/mechanism_keywords.md) |
 
 ---
 
@@ -35,7 +35,7 @@ Use this as a compact wiring diagram—how folders relate, not a ladder of impor
 
 - **Mechanics** (`docs/mechanics/`): reusable patterns for framing work, roles, and outputs. [Public Garden / Park / Vault Routing](08_public_garden_park_vault_routing.md) defines how material is held, processed, or published.
 - **Safety guards** (`docs/safety/`): boundaries around harm, amplification, and external effects—not instructions to bypass judgment.
-- **Prompts, afterwords, x_dance, discovery, signals** (deep-trace mirror under [`🟤 Ground/deep-traces/a-way-2-look/`](../../../🟤%20Ground/deep-traces/a-way-2-look/README.md)): working copies live **next to** public `docs/` — same navigation intent; not duplicated under `docs/` today. [**Prompts**](../../../🟤%20Ground/deep-traces/a-way-2-look/prompts/README.md) · [**Afterwords**](../../../🟤%20Ground/deep-traces/a-way-2-look/afterwords/README.md) · [**x_dance**](../../../🟤%20Ground/deep-traces/a-way-2-look/x_dance/synced_fresh_mirror_gate.md) · [**Discovery**](../../../🟤%20Ground/deep-traces/a-way-2-look/discovery/mechanism_keywords.md) · [**Signals**](../../../🟤%20Ground/deep-traces/a-way-2-look/signals/github_seo_traffic_stats.md)
+- **Prompts, afterwords, x_dance, discovery, signals** (deep-trace mirror under [`🟤 Ground/deep-traces/a-way-2-look/`](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/README.md)): working copies live **next to** public `docs/` — same navigation intent; not duplicated under `docs/` today. [**Prompts**](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/prompts/README.md) · [**Afterwords**](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/afterwords/README.md) · [**x_dance**](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/x_dance/synced_fresh_mirror_gate.md) · [**Discovery**](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/discovery/mechanism_keywords.md) · [**Signals**](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/signals/github_seo_traffic_stats.md)
 - **GitHub:** [GitHub as Public Connection Layer](09_github_as_public_connection_layer.md) explains how repository features can support visible discussion, proposal, review, and correction.
 
 Nothing here closes the loop between these layers except **your reading path**. Jump across folders as needed; cross-links in this README point at concrete files.
@@ -61,15 +61,15 @@ These clusters overlap; one document may touch several. Use them as orientation,
 | Cluster | What it covers | Primary hooks in this repo |
 |--------|-----------------|----------------------------|
 | **Transparency / splitter mechanics** | Making distinctions visible; separating layers so pressure does not collapse into a single blind spot | [00_splitter_transparency_protocol.md](00_splitter_transparency_protocol.md), [02_foundation_tree.md](02_foundation_tree.md) |
-| **AI deviation and correction mechanics** | Treating model drift as trace; correcting course without pretending outputs are ground truth | [03_ai_deviation_as_trace.md](03_ai_deviation_as_trace.md), [afterwords reflections](../../../🟤%20Ground/deep-traces/a-way-2-look/afterwords/reflections/2026-05-08_ai_deviation_not_mistake.md) |
+| **AI deviation and correction mechanics** | Treating model drift as trace; correcting course without pretending outputs are ground truth | [03_ai_deviation_as_trace.md](03_ai_deviation_as_trace.md), [afterwords reflections](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/afterwords/reflections/2026-05-08_ai_deviation_not_mistake.md) |
 | **Confirmation and role mechanics** | How confirmation paths and roles are framed relative to patterns and tools—not as verdict machines | [04_confirmation_path_and_ai_role.md](04_confirmation_path_and_ai_role.md), [04_facts_patterns_and_ai_role.md](04_facts_patterns_and_ai_role.md) |
 | **Dual-language / symbol-first output mechanics** | Structured or bilingual outputs when plain prose obscures mechanism | [05_dual_language_output_protocol.md](05_dual_language_output_protocol.md) |
 | **External mirror and bundling mechanics** | External-facing summaries and bundles without turning outsiders into proof | [06_public_invitation_priority_protocol.md](06_public_invitation_priority_protocol.md), [07_external_mirror_bundling.md](07_external_mirror_bundling.md) |
-| **Prompt opening mechanics** | Translating the opening of a prompt before answering surface wording | [prompt_opening_translation_protocol.md](../../../🟤%20Ground/deep-traces/a-way-2-look/prompts/prompt_opening_translation_protocol.md), [prompts README](../../../🟤%20Ground/deep-traces/a-way-2-look/prompts/README.md) |
-| **Afterword / landing trace mechanics** | Short landing reflections after a move—not replacements for full audit | [afterwords README](../../../🟤%20Ground/deep-traces/a-way-2-look/afterwords/README.md) |
+| **Prompt opening mechanics** | Translating the opening of a prompt before answering surface wording | [prompt_opening_translation_protocol.md](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/prompts/prompt_opening_translation_protocol.md), [prompts README](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/prompts/README.md) |
+| **Afterword / landing trace mechanics** | Short landing reflections after a move—not replacements for full audit | [afterwords README](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/afterwords/README.md) |
 | **Safety and external-impact guards** | Boundaries around harm, folly amplification, and external effects | [safety README](../safety/README.md), [external impact guards](../safety/external_impact_guards/README.md) |
-| **X dance / execution mechanics** | Scope separation, gates, and trace-style execution notes | [synced_fresh_mirror_gate.md](../../../🟤%20Ground/deep-traces/a-way-2-look/x_dance/synced_fresh_mirror_gate.md), [2026-05-08_x_king_moment_scope_separation.md](../../../🟤%20Ground/deep-traces/a-way-2-look/x_dance/2026-05-08_x_king_moment_scope_separation.md), [nine-branch prompt tracks](../../../🟤%20Ground/deep-traces/a-way-2-look/prompts/x_execution/2026-05-08_nine_branch_prompt_tracks.md) |
-| **Discovery and keyword trace mechanics** | Keyword-oriented scanning of mechanism language | [mechanism_keywords.md](../../../🟤%20Ground/deep-traces/a-way-2-look/discovery/mechanism_keywords.md) |
+| **X dance / execution mechanics** | Scope separation, gates, and trace-style execution notes | [synced_fresh_mirror_gate.md](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/x_dance/synced_fresh_mirror_gate.md), [2026-05-08_x_king_moment_scope_separation.md](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/x_dance/2026-05-08_x_king_moment_scope_separation.md), [nine-branch prompt tracks](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/prompts/x_execution/2026-05-08_nine_branch_prompt_tracks.md) |
+| **Discovery and keyword trace mechanics** | Keyword-oriented scanning of mechanism language | [mechanism_keywords.md](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/discovery/mechanism_keywords.md) |
 
 Supporting rhythm / pressure language (same layer, still mechanism—not prescription):
 
@@ -97,7 +97,7 @@ Paths below are **relative to this file** (`docs/mechanics/README.md`). Only ent
 
 ### Discovery (`🟤 Ground/.../discovery/`)
 
-- [mechanism_keywords.md](../../../🟤%20Ground/deep-traces/a-way-2-look/discovery/mechanism_keywords.md)
+- [mechanism_keywords.md](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/discovery/mechanism_keywords.md)
 
 ### Safety (`docs/safety/`)
 
@@ -107,20 +107,20 @@ Paths below are **relative to this file** (`docs/mechanics/README.md`). Only ent
 
 ### Afterwords (`🟤 Ground/.../afterwords/`)
 
-- [README](../../../🟤%20Ground/deep-traces/a-way-2-look/afterwords/README.md)
-- [reflections/2026-05-08_ai_deviation_not_mistake](../../../🟤%20Ground/deep-traces/a-way-2-look/afterwords/reflections/2026-05-08_ai_deviation_not_mistake.md)
+- [README](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/afterwords/README.md)
+- [reflections/2026-05-08_ai_deviation_not_mistake](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/afterwords/reflections/2026-05-08_ai_deviation_not_mistake.md)
 
 ### X dance / execution traces (`🟤 Ground/.../x_dance/`)
 
-- [synced_fresh_mirror_gate](../../../🟤%20Ground/deep-traces/a-way-2-look/x_dance/synced_fresh_mirror_gate.md)
-- [2026-05-08_x_king_moment_scope_separation](../../../🟤%20Ground/deep-traces/a-way-2-look/x_dance/2026-05-08_x_king_moment_scope_separation.md)
+- [synced_fresh_mirror_gate](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/x_dance/synced_fresh_mirror_gate.md)
+- [2026-05-08_x_king_moment_scope_separation](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/x_dance/2026-05-08_x_king_moment_scope_separation.md)
 
 ### Prompts (`🟤 Ground/.../prompts/`)
 
-- [README](../../../🟤%20Ground/deep-traces/a-way-2-look/prompts/README.md)
-- [prompt_opening_translation_protocol](../../../🟤%20Ground/deep-traces/a-way-2-look/prompts/prompt_opening_translation_protocol.md)
-- [deepsearch/gemini_beast_mode_doc](../../../🟤%20Ground/deep-traces/a-way-2-look/prompts/deepsearch/gemini_beast_mode_doc.md)
-- [x_execution/2026-05-08_nine_branch_prompt_tracks](../../../🟤%20Ground/deep-traces/a-way-2-look/prompts/x_execution/2026-05-08_nine_branch_prompt_tracks.md)
+- [README](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/prompts/README.md)
+- [prompt_opening_translation_protocol](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/prompts/prompt_opening_translation_protocol.md)
+- [deepsearch/gemini_beast_mode_doc](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/prompts/deepsearch/gemini_beast_mode_doc.md)
+- [x_execution/2026-05-08_nine_branch_prompt_tracks](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/prompts/x_execution/2026-05-08_nine_branch_prompt_tracks.md)
 
 ### Discussions (`docs/discussions/`)
 
@@ -128,11 +128,11 @@ Paths below are **relative to this file** (`docs/mechanics/README.md`). Only ent
 
 ### Signals (`🟤 Ground/.../signals/`)
 
-- [GitHub SEO / Traffic Statistics Log](../../../🟤%20Ground/deep-traces/a-way-2-look/signals/github_seo_traffic_stats.md)
+- [GitHub SEO / Traffic Statistics Log](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/signals/github_seo_traffic_stats.md)
 
 ### Framework root
 
-- [README (asymx-framework root)](../../../README.md) — high-level framing of the wider project (not identical to this mechanics map).
+- [README (asymx-framework root)](../../../../README.md) — high-level framing of the wider project (not identical to this mechanics map).
 - [A way 2 Look (room README)](../../README.md) — entrance to this lens folder.
 
 ---
@@ -143,7 +143,7 @@ Paths below are **relative to this file** (`docs/mechanics/README.md`). Only ent
 - **Raw or private source material is not reproduced here.** Nothing in this index invites importing private logs or vault-only material into public reasoning.
 - **Local or private vault paths are not public input** for readers of this map; keep separation explicit.
 - **External people, signals, or mirrors are not treated as proof** in these docs—they may illustrate bundling or caution, not validation.
-- **AI output is trace and instrument**, not authority: deviation is expected; correction is part of the workflow ([03_ai_deviation_as_trace.md](03_ai_deviation_as_trace.md), [prompts README](../../../🟤%20Ground/deep-traces/a-way-2-look/prompts/README.md)).
+- **AI output is trace and instrument**, not authority: deviation is expected; correction is part of the workflow ([03_ai_deviation_as_trace.md](03_ai_deviation_as_trace.md), [prompts README](../../../../Ⅰ%20FIELD%20⚫/🟤%20Ground/deep-traces/a-way-2-look/prompts/README.md)).
 
 ---
 
