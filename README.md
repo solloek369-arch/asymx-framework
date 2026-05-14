@@ -1,9 +1,56 @@
-# AsymX Framework
+# ༄ AsymX
 
-A public visibility layer for signals, filters and routes.
+### FIELD holds.
 
-GitHub is not the vault.  
-Public material appears here only after boundary, trace and human gate.
+### ALCHEMY transforms.
+
+### NAVIGATOR opens.
+
+> **The error is not the problem.**  
+> **The problem is the moment when the error stays invisible.**
+
+*A public visibility layer for signals, friction, roles, routes, and safe next movement.*  
+GitHub is not the vault. Public material appears here only after boundary, trace, and human gate.
+
+---
+
+Welcome. This is **not** an archive, **not** a proof machine, and **not** a mystique system. It is a **living visibility field** — a place where what becomes public stays **traceable**, **bounded**, and **correction-friendly**.
+
+Everything visible here follows one chain:
+
+```text
+visible mechanic → symbol carries → route opens
+```
+
+```text
+mechaniek zichtbaar → symbool draagt → route opent
+```
+
+A symbol here is never “just” ornament.
+
+```text
+No emoji without mechanic.
+No mechanic without route.
+No route without gate.
+
+Geen emoji zonder mechaniek.
+Geen mechaniek zonder route.
+Geen route zonder gate.
+```
+
+Emojis, colours, and marks stay — not because they are cute, but because they let you **feel what moves before explanation piles up**.
+
+```text
+Symbols are not decoration.
+Symbols are compressed mechanics.
+Emojis stay because they make mechanics readable at the human layer.
+
+Symbolen zijn geen versiering.
+Symbolen zijn samengeperste mechanieken.
+Emoji’s blijven omdat ze mechanieken leesbaar maken op de menselijke laag.
+```
+
+---
 
 ## What this is
 
@@ -35,20 +82,18 @@ This repository is a **public visibility layer**: bounded docs, small experiment
 
 ---
 
-## 🔘 FIELD → 💠 ALCHEMY → 🧭 NAVIGATOR
+## 🌑 FIELD — holds
 
-Three entrances into one visibility field.
+FIELD is where the field may **exist first** — before judgment, before a forced conclusion, before publication.
 
-| Entrance | Signal | Function | Plain anchor |
-| --- | ---:| --- | --- |
-| **FIELD** | ⚫🟤🟣 | **HOLD** | Source / Ground / Mystery |
-| **ALCHEMY** | 🔴🟡🔵 | **TRANSFORM** | Friction / Filter / Trace / Role prism |
-| **NAVIGATOR** | 🟡🟢🔵 | **OPEN** | Question / Route / Handoff |
+FIELD holds **source**, **signal**, **silence**, **rawness**, **compost**, **protection**, and room for **mystery** — without inflating any of it.
 
-## ● FIELD
+FIELD says: *not everything must become visible immediately; not everything must be solved in public; not everything must go outward.*
 
 **What enters, roots, and remains protected.**  
-Sources & Signals · Vault & Compost · Mystery & Protection
+Sources & signals · vault & compost · mystery & protection
+
+**Orientation (not a folder list):** ⚫ stillness · 🟤 ground · 🌱 first growth · 🕸️ source-trace · 🦉 protected looking — the **source stays whole** here.
 
 FIELD holds.
 
@@ -61,26 +106,77 @@ FIELD holds.
 
 *Early seed trace (archived prototype absorbed as mechanic, not current canon):* [`🟤 Ground/early-roots/field-system-core.md`](🟤%20Ground/early-roots/field-system-core.md)
 
-## ◆ ALCHEMY
+---
+
+## ⚗️ ALCHEMY — transforms
+
+ALCHEMY is where **work becomes visible**. Nothing here is “proven” into being — it is **read**, **sorted**, and **translated** across domains.
+
+Questions ALCHEMY keeps honest:
+
+```text
+What moves here? What pressure forms?
+Which role sees it differently?
+Which friction stays invisible?
+Which language makes it too heavy?
+Which route makes it lighter?
+```
+
+ALCHEMY translates **visible mechanics** across:
+
+```text
+🌿 nature · 🧍 human · 🎭 role · 🗣️ language · ⚙️ system
+🔥 friction · 🕷️ trace · 🎨 colour · 🔣 symbol
+```
+
+So ALCHEMY is **not** “only nature symbolism”. It is the **central translation space** — where mechanics are **filtered, weighed, split, transformed,** and **compressed** without turning metaphor into proof.
+
+Compressed examples (always tied to **named** mechanics and routes — never trophies):
+
+```text
+🐝 pollination — small signal carries something between fields (handoff / pointer)
+🦫 dam — slow the stream; regulate pressure (gate / friction boundary)
+🕷️ web — trace, vibration, relation tension (look again; not accusation)
+🐍 edge — boundary sense; early warning (risk / stink / limit)
+🔥 heat — friction and transformation pressure (filter / gate — not blame)
+⚗️ alembic — controlled change under boundary (claim-safe transform)
+🧍 human — observation, choice, load
+🎭 role — viewing position, not a people-box
+🧭 route — direction without forcing motion
+```
+
+ALCHEMY says: *friction is not guilt; an error is not a verdict; a symbol is not evidence; a pattern is public only when the **gate** can carry it.*
 
 **What gets read, filtered, gated, and transformed.**  
-Mechanics & Filters · Gates & Claim-Safety · Trace & Symbol Engine · Role Prism
+Mechanics & filters · gates & claim-safety · trace & symbol routing · role prism
 
 ALCHEMY transforms.
 
 | Room | Role |
 | --- | --- |
 | [`gates-friction`](gates-friction/README.md) | Trace gate, soft contact, public friction boundary, mechanics map |
-| [`🟡 A way 2 Look`](🟡%20A%20way%202%20Look/) | Lenses, bounded docs, mechanics, safety and language — **orientation, not proof**. Deep case traces now live under Ground. |
+| [`🟡 A way 2 Look`](🟡%20A%20way%202%20Look/) | Lenses, bounded docs, mechanics, safety and language — **orientation, not proof**. Deep case traces live under Ground. |
 | [`🔵 Playfield`](🔵%20Playfield/) | Experiments and prototypes — try small, stay bounded |
 | [`🔴 Release`](🔴%20Release/) | Boundaries, checks, resistance to premature weight |
 
-## ⌖ NAVIGATOR
+Symbol / colour routing language (internal reference, same gate rules): [`docs/lang/symbol_grammar.md`](🟡%20A%20way%202%20Look/docs/lang/symbol_grammar.md) · [`docs/lang/`](🟡%20A%20way%202%20Look/docs/lang/README.md)
 
-**How people orient and move forward.**  
-View situation as… · Modes & questions · Routes & handoffs
+---
+
+## 🧭 NAVIGATOR — opens
+
+NAVIGATOR does not open “final truth”. It opens a **route**.
+
+Not *“this is what it is”* — but **View situation as…** A role is not a cage; it is a **lens**.
 
 *The situation is the field; the role is the lens; the gate chooses what may open.*
+
+NAVIGATOR opens **role-lenses**, **questions**, **routes**, **handoffs**, **safe next steps**, and **soft public invitations** — without dragging anyone into a dance they did not choose.
+
+**Movement (compressed):** 🧭 orientation · 🦦 soft flow · 🐝 transfer · 🦉 protected looking · 🟢 landing · 🔵 following a process
+
+**How people orient and move forward.**  
+View situation as… · modes & questions · routes & handoffs
 
 NAVIGATOR opens.
 
@@ -95,14 +191,92 @@ NAVIGATOR opens.
 
 ---
 
+## 🌈 Colour — pressure legibility
+
+Colour here is **pressure legibility**, not styling.
+
+| Mark | Reads as (short) |
+| --- | --- |
+| 🔴 | interrupt · boundary · first alarm · stop |
+| 🟡 | attention · make visible · mark · **not yet a claim** |
+| 🔵 | route · process · follow · handoff · motion |
+| 🟢 | integrate · rest · land · “safe enough” · repair |
+| ⚫ | silence · vault · source intact · hold · protection |
+
+---
+
+## 🐝 Room symbols vs mechanic symbols
+
+**Some symbols mark rooms** (repository paths). **Some compress mechanics** (what moves). **Both are routing signs** — not decoration, identity, or proof.
+
+```text
+Some symbols mark rooms.
+Some symbols compress mechanics.
+Both are routing signs, not decoration and not proof.
+
+Sommige symbolen markeren kamers.
+Sommige symbolen comprimeren mechanieken.
+Beiden zijn routingtekens, geen versiering en geen bewijs.
+```
+
+Example:
+
+- [`🟡 A way 2 Look`](🟡%20A%20way%202%20Look/) — **room** / disk route / lens space.  
+- 🐝 in context — **mechanic** / pollination / soft handoff between fields (only when that mechanic is already visible in text).
+
+One glyph can mark a folder **or** compress a mechanic — the **route** must stay obvious.
+
+---
+
+## 🕸️ Route formula
+
+Everything that becomes public walks something like:
+
+```text
+source → field → mechanic → symbol → route → gate → public leaf
+```
+
+As movement:
+
+```text
+FIELD catches.
+ALCHEMY reads.
+NAVIGATOR opens.
+GATE decides.
+PUBLIC becomes leaf.
+```
+
+```text
+Public is a leaf, not the forest.
+AI is a lens, not the source.
+GitHub is the visible remainder after gate.
+```
+
+---
+
+## Crash-test before a public addition
+
+1. Is source or cause **traceable**?  
+2. Is the **mechanic** named and visible?  
+3. Is any **symbol** tied to that mechanic (not pasted for flair)?  
+4. Is the **route** clear?  
+5. Is **gate** status honest?  
+6. Is wording **claim-light**?  
+7. Do vault / raw / private stays **protected**?
+
+If any answer is **no** → **park · compost · vault — not public.**
+
+---
+
 ## Boundary and orientation
 
-The homepage is **not** a folder dump: three functional entrances, with emoji folders as **rooms** behind them.
+GitHub should feel like a **living front door**, a **fan of visible leaves**, a **garden path** — **not** the root ball, **not** a folder dump.
+
+The three portals (**FIELD / ALCHEMY / NAVIGATOR**) are **view-gates**. Current **folder names** and emoji rooms may differ; this README is the **overlay map** that teaches how to read them. **No bulk move is required** to read clearly.
 
 - **GitHub is not the field** — only a **visibility layer** after trace, consent, and a **human + X gate** (see [**Trace Gate**](gates-friction/TRACE_GATE.md)).
 - **Public = NO by default.** **RAW / VAULT first.** Source stays **intact** outside this leaf.
-- **AI / chat:** see the **AI note** under [Mechanics on this leaf](#mechanics-on-this-leaf) above.
-- **Symbols** here are **functional orientation** — not decoration, identity, or proof.
+- **AI / chat:** see the **AI note** under [Mechanics on this leaf](#mechanics-on-this-leaf).
 
 **Cultural safety:** no mock ceremony, no psychedelic framing, no borrowed Indigenous **iconography** as ornament. No “sacred product,” no land or living world as **branding**.
 
@@ -112,7 +286,7 @@ What you read here is **orientation**, **claim-light**, and **correction-friendl
 
 ## How to read this repository
 
-1. Read **What this is**, **Intent**, and **Mechanics on this leaf**, then the **three entrances** and room tables.
+1. Read the **open door** above, then **What this is**, **Intent**, and **Mechanics on this leaf**; walk the **three portals** and room tables; skim **colour**, **symbol layer**, and **route formula** when you need pressure language.
 2. Treat this repo as **one public leaf** — not the full vault.
 3. Prefer **links and tables** for navigation; treat long pages as **inspectable**, not **mandatory**.
 4. Nothing here is **warranty**, **proof**, or **instruction for high-risk domains** without your own gate — when in doubt, **pause**.
@@ -130,7 +304,7 @@ What you read here is **orientation**, **claim-light**, and **correction-friendl
 
 ## Current status
 
-Public structure is organized around **FIELD / ALCHEMY / NAVIGATOR**. Supporting folders use emoji names for **disk routing**; they **follow** the three entrances, they do not replace them.
+Public structure is organized around **FIELD / ALCHEMY / NAVIGATOR**. Supporting folders use emoji names for **disk routing**; they **follow** the three portals — they do not replace them. A broader **compressed-mechanics registry** may land under **`docs/`** later, small and gated.
 
 ---
 

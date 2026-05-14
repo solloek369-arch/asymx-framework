@@ -7,6 +7,7 @@ This folder contains access languages for AsymX readability.
 **Public gate:** not public by default — internal routing language for maintainers; not the homepage.
 
 - [`symbol_grammar.md`](symbol_grammar.md) — sensory router, status colours, mycelium / pointers.
+- [`natural_symbol_mechanics_registry.md`](natural_symbol_mechanics_registry.md) — EN/NL core rule: symbol only when mechanic visible; routing not decoration/proof.
 - [`alchemy_symbol_mechanics.md`](alchemy_symbol_mechanics.md) — transformation grammar (historical pattern language), **not** proof, doctrine, or borrowed authority.
 
 ---

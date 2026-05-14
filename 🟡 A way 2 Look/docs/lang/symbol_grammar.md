@@ -24,6 +24,26 @@ In AsymX, symbolic language is used to make movement lighter, clearer and more t
 
 ---
 
+## 0.5 Compact mechanic registry (YELLOW → GREEN candidate)
+
+**Full wording (EN/NL core rule + chain):** [`natural_symbol_mechanics_registry.md`](natural_symbol_mechanics_registry.md).
+
+**Verdict:** Natural-symbol layer is **mechanically valid** and **public-safe** only when **every mark points to an already visible AsymX mechanic** (documented gate, protocol, or routing rule — not vibe).
+
+**Risks to avoid:** emoji/design drift, species-fixation, mystical proof-language, biology-forward homepage without mechanic tags.
+
+**Gate:** If the **AsymX mechanic is not visible** in repo text or an explicit gate doc, the **symbol does not enter public routing.** No decorative emoji layer on the **root** README; compressed marks may appear **only** as routing shorthand where the mechanic is already named.
+
+| Observed natural mechanic | AsymX mechanic (name) | Optional compressed mark | Typical route (orientatie) |
+| --- | --- | --- | --- |
+| Light cross-transfer / pollination | Pointer + invitation + handoff without dragging source mass | — | [`07_the_pointer_and_routing_mechanic`](../../mechanics/07_the_pointer_and_routing_mechanic.md), [`06_public_invitation_priority_protocol`](../../mechanics/06_public_invitation_priority_protocol.md) |
+| Buffer / slow / hold pressure | Trace gate + soft contact + public friction boundary | — | [`gates-friction/TRACE_GATE`](../../../gates-friction/TRACE_GATE.md), [`SOFT_CONTACT_RULE`](../../../gates-friction/SOFT_CONTACT_RULE.md) |
+| Web / tension / trace visibility | Scan → flag → “look again”; trace not accusation | — | [`gates-friction/spore-engine`](../../../gates-friction/spore-engine/README.md), TRACE_GATE |
+
+*Optional marks (🐝 🦫 🕷️ …) belong only in internal notes once the row above is agreed; they are not proof and not required for routing.*
+
+---
+
 ## 1. Universal Router — Sensory Layer
 
 Before something becomes a file, folder, element, role or public leaf, it first appears as a signal.
