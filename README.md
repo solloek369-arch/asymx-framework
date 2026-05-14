@@ -26,6 +26,7 @@ This repository is a **public visibility layer**: bounded docs, small experiment
 | **Soft contact** | Caps how “hard” a public interaction may press; avoids accidental harm. | [`gates-friction/SOFT_CONTACT_RULE.md`](gates-friction/SOFT_CONTACT_RULE.md) |
 | **Public friction boundary** | Keeps outward friction bounded; visibility carries responsibility. | [`gates-friction/PUBLIC_FRICTION_BOUNDARY.md`](gates-friction/PUBLIC_FRICTION_BOUNDARY.md) |
 | **Open mechanics map** | Patterns **beside** each other — **map, not belief system**; every lens **optional**. | [`gates-friction/open_mechanics_map.md`](gates-friction/open_mechanics_map.md) |
+| **Role prism** | **Situation first:** a **role** is a **viewing position** on the same situation — not a category of people; compare what becomes visible before any public move. | [`🟡 A way 2 Look`](🟡%20A%20way%202%20Look/) · [`docs/mechanics`](🟡%20A%20way%202%20Look/docs/mechanics/) |
 | **Lenses & Level‑1 docs** | Bounded language: case studies, mechanics notes, safety — **orientation, not proof**. | [`🟡 A way 2 Look`](🟡%20A%20way%202%20Look/) · [`docs/mechanics`](🟡%20A%20way%202%20Look/docs/mechanics/) · [`docs/safety`](🟡%20A%20way%202%20Look/docs/safety/) |
 | **Playfield / Release** | Small tries in the open; explicit **checks** and **resistance** to premature weight. | [`🔵 Playfield`](🔵%20Playfield/) · [`🔴 Release`](🔴%20Release/) |
 | **Spore engine (optional)** | Scan helpers for the visible tree — a **flag means “look again”**, not an accusation. | [`gates-friction/spore-engine`](gates-friction/spore-engine/README.md) |
@@ -41,7 +42,7 @@ Three entrances into one visibility field.
 | Entrance | Signal | Function | Plain anchor |
 | --- | ---:| --- | --- |
 | **FIELD** | ⚫🟤🟣 | **HOLD** | Source / Ground / Mystery |
-| **ALCHEMY** | 🔴🟡🔵 | **TRANSFORM** | Friction / Filter / Trace |
+| **ALCHEMY** | 🔴🟡🔵 | **TRANSFORM** | Friction / Filter / Trace / Role prism |
 | **NAVIGATOR** | 🟡🟢🔵 | **OPEN** | Question / Route / Handoff |
 
 ## ● FIELD
@@ -63,7 +64,7 @@ FIELD holds.
 ## ◆ ALCHEMY
 
 **What gets read, filtered, gated, and transformed.**  
-Mechanics & Filters · Gates & Claim-Safety · Trace & Symbol Engine
+Mechanics & Filters · Gates & Claim-Safety · Trace & Symbol Engine · Role Prism
 
 ALCHEMY transforms.
 
@@ -76,8 +77,10 @@ ALCHEMY transforms.
 
 ## ⌖ NAVIGATOR
 
-**How people enter, orient, and move forward.**  
-Enter by Role · Modes & Questions · Routes & Handoffs
+**How people orient and move forward.**  
+View situation as… · Modes & questions · Routes & handoffs
+
+*The situation is the field; the role is the lens; the gate chooses what may open.*
 
 NAVIGATOR opens.
 
